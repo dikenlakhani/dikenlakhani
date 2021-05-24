@@ -1,0 +1,62 @@
+[20210523 17:54:36 INFO root] Base initialized.
+[20210523 17:54:36 INFO root] net device startup ok
+[20210523 17:54:36 INFO root] 	FDSetSize       = 1024
+[20210523 17:54:36 INFO root] 	Version         = 110
+[20210523 17:54:36 INFO root] 	SendBufferSize  = 16384
+[20210523 17:54:36 INFO root] 	RecvBufferSize  = 87380
+[20210523 17:54:52 ERRO root] no sn 1.
+[20210523 17:54:52 INFO root] Connected to the db server successfully.
+[20210523 17:54:52 INFO root] Connected to the db server successfully.
+[20210523 17:54:52 INFO root] Connected to the db server successfully.
+[20210523 17:54:52 INFO root] Connected to the login server successfully.
+[20210523 17:55:28 INFO root] Register SUCCEEDED
+[20210523 17:55:28 INFO root] PK is ENABLED
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20400 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20401 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20402 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20403 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20404 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20405 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20406 npc=9904
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20400 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20401 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20402 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20403 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20404 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20405 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20406 npc=9905
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20407 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20408 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20409 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=21223 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20090 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20091 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20092 npc=9906
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20407 npc=9907
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20408 npc=9907
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20409 npc=9907
+[20210523 17:55:54 ERRO root] can not find drop class, ID=21223 npc=9907
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20090 npc=9907
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20091 npc=9907
+[20210523 17:55:54 ERRO root] can not find drop class, ID=20092 npc=9907
+[20210523 17:58:29 ERRO root] 操作数前面必须是运算符、括号或者空
+
+Rate(0.09)SkillAddCd
+          ^
+[20210523 17:58:32 WARN root] NpcAreaLoadRegion local\common\table/main/ningbiya/npc.csv: Line=588, Type=Common, NpcID=0
+[20210523 17:58:32 WARN root] NpcAreaLoadRegion local\mars\table/main/chengdu/npc.csv: Line=35, Type=Locate, NpcID=0
+[20210523 17:58:34 INFO root] Disconnect from the db server.
+[20210523 17:58:34 ERRO root] init war area error
+[20210523 17:58:34 INFO root] Game System [war] Init Failed
+[20210523 17:58:34 INFO root] AI Manger 退出, 0个AI对象被摧毁
+[20210523 17:58:35 INFO root] object leak 0
+[20210523 17:58:35 INFO root] Disconnect from the db server.
+[20210523 17:58:35 INFO root] Disconnect from the db server.
+[20210523 17:58:35 ERRO root] Disconnect from the login server. (shutdown)
+[20210523 17:58:35 ERRO root] server init failed
+[20210523 17:58:35 INFO root] ActorOperate total num = 0, free = 0
+[20210523 17:58:35 INFO root] The free npc node list size is 40000, used buffer count is 2.
+[20210523 17:58:35 INFO root] The free user node list size is 2000, used buffer count is 1.
+[20210523 17:58:35 INFO root] Base exit.
+[20210523 17:58:35 INFO root] script engine shutdown Ok
+[20210523 17:58:35 INFO root] net device exit ok

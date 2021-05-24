@@ -1,0 +1,8 @@
+[20210521 13:55:24 INFO root] Base initialized.
+[20210521 13:55:24 INFO root] net device startup ok
+[20210521 13:55:24 INFO root] 	FDSetSize       = 1024
+[20210521 13:55:24 INFO root] 	Version         = 110
+[20210521 13:55:24 INFO root] 	SendBufferSize  = 16384
+[20210521 13:55:24 INFO root] 	RecvBufferSize  = 87380
+[20210521 13:55:24 ERRO root] LOG_PROCESS_ERROR(s_apvPrepareBufNpc[i]) at line 1000 in unsupported.
+[20210521 13:55:24 ERRO root] LOG_PROCESS_ERROR(s_apvPrepareBufUser[i]) at line 1142 in unsupported.

@@ -1,0 +1,145 @@
+[20210522 15:22:35 INFO root] Base initialized.
+[20210522 15:22:35 INFO root] net device startup ok
+[20210522 15:22:35 INFO root] 	FDSetSize       = 1024
+[20210522 15:22:35 INFO root] 	Version         = 110
+[20210522 15:22:35 INFO root] 	SendBufferSize  = 16384
+[20210522 15:22:35 INFO root] 	RecvBufferSize  = 87380
+[20210522 15:22:35 ERRO root] no sn 1.
+[20210522 15:22:35 INFO root] Connected to the db server successfully.
+[20210522 15:22:35 INFO root] Connected to the db server successfully.
+[20210522 15:22:35 INFO root] Connected to the db server successfully.
+[20210522 15:22:35 INFO root] Connected to the login server successfully.
+[20210522 15:22:39 INFO root] Register SUCCEEDED
+[20210522 15:22:39 INFO root] PK is ENABLED
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20400 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20401 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20402 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20403 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20404 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20405 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20406 npc=9904
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20400 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20401 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20402 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20403 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20404 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20405 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20406 npc=9905
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20407 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20408 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20409 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=21223 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20090 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20091 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20092 npc=9906
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20407 npc=9907
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20408 npc=9907
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20409 npc=9907
+[20210522 15:22:39 ERRO root] can not find drop class, ID=21223 npc=9907
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20090 npc=9907
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20091 npc=9907
+[20210522 15:22:39 ERRO root] can not find drop class, ID=20092 npc=9907
+[20210522 15:22:44 ERRO root] 操作数前面必须是运算符、括号或者空
+
+Rate(0.09)SkillAddCd
+          ^
+[20210522 15:22:45 WARN root] NpcAreaLoadRegion local\common\table/main/ningbiya/npc.csv: Line=588, Type=Common, NpcID=0
+[20210522 15:22:45 WARN root] NpcAreaLoadRegion local\mars\table/main/chengdu/npc.csv: Line=35, Type=Locate, NpcID=0
+[20210522 15:22:45 INFO root] CGameSystemAuction_Svr::Load: 0 Dealing Item Loaded
+[20210522 15:22:45 INFO root] CGameSystemAuction_Svr::Load: 0 Dealed Item Loaded
+[20210522 15:22:45 INFO root] [CGsGuildSvr::LoadFromDb] Guild Load Success, total = 1
+[20210522 15:22:45 INFO root] [CGsGuildSvr::LoadFromDb] GuildTerr Load Success, total = 1
+[20210522 15:22:45 INFO root] Connected to the db server successfully.
+[20210522 15:22:45 INFO root] [CGsMurderSvr::LoadFromDb] Murder Load Success, total = 0
+[20210522 15:22:45 INFO root] Auto Clear Tiredness @ 12:00:00
+[20210522 15:22:45 INFO root] server init ok
+[20210522 15:22:45 INFO root] ServerTick 1 = 2 [0] [0] [0] [2]
+[20210522 15:22:46 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:22:46 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:22:46 INFO root] ServerTick 171 = 380 [0] [380] [0] [0] (1)
+[20210522 15:22:46 INFO root] ServerTick 348 = 3 [0] [3] [0] [0]
+[20210522 15:22:47 INFO root] ServerTick 1204 = 20 [0] [20] [0] [0]
+[20210522 15:22:52 INFO root] ServerTick 5413 = 22 [0] [22] [0] [0]
+[20210522 15:23:27 INFO root] ServerTick 33979 = 24 [0] [24] [0] [0]
+[20210522 15:23:27 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:28 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:29 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:30 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:31 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:32 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:33 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:34 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:35 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:36 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:37 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:38 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:39 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:40 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:41 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:42 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:43 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:44 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:45 INFO root] STAT:user=0 ectype=0,0,0,0 stall=0 dun=0 obj=15031 timerobj=22
+[20210522 15:23:45 INFO root] STAT2:grid[total=222300,valid=9313,notify=0,active=9294], creature[notify=0, active=15030]
+[20210522 15:23:45 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:46 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:47 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:48 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:49 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:50 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:51 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:52 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:53 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:54 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:55 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:56 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:57 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:23:59 ALERT root] Game server shutdown by [System]. (0s)
+[20210522 15:23:59 INFO root] ToQuit 50s
+[20210522 15:24:09 INFO root] ToQuit 40s
+[20210522 15:24:19 INFO root] ToQuit 30s
+[20210522 15:24:29 INFO root] ToQuit 20s
+[20210522 15:24:39 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:39 INFO root] ToQuit 10s
+[20210522 15:24:40 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:41 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:42 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:43 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:44 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:45 INFO root] STAT:user=0 ectype=0,0,0,0 stall=0 dun=0 obj=15041 timerobj=22
+[20210522 15:24:45 INFO root] STAT2:grid[total=222300,valid=9236,notify=0,active=9210], creature[notify=0, active=15040]
+[20210522 15:24:45 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:46 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:47 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:48 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:49 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:50 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:51 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:52 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:53 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:54 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:55 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:56 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:57 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:58 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:59 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:24:59 INFO root] Quiting ...
+[20210522 15:24:59 INFO root]   Saving user data, Don`t shutdown game server app
+[20210522 15:24:59 INFO root]   Last 2 Second ...
+[20210522 15:25:00 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:25:01 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 15:25:01 INFO root]   Quit ok
+[20210522 15:25:01 INFO root] server exit(2)
+[20210522 15:25:01 INFO root] AI Manger 退出, 15042个AI对象被摧毁
+[20210522 15:25:01 INFO root] Disconnect from the db server.
+[20210522 15:25:02 INFO root] object leak 0
+[20210522 15:25:02 INFO root] Disconnect from the db server.
+[20210522 15:25:02 INFO root] Disconnect from the db server.
+[20210522 15:25:02 INFO root] Disconnect from the db server.
+[20210522 15:25:02 ERRO root] Disconnect from the login server. (shutdown)
+[20210522 15:25:02 INFO root] ActorOperate total num = 0, free = 0
+[20210522 15:25:02 INFO root] The free npc node list size is 40000, used buffer count is 2.
+[20210522 15:25:02 INFO root] The free user node list size is 2000, used buffer count is 1.
+[20210522 15:25:02 INFO root] Base exit.
+[20210522 15:25:02 INFO root] script engine shutdown Ok
+[20210522 15:25:02 INFO root] net device exit ok

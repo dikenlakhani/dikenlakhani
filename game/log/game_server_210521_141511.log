@@ -1,0 +1,357 @@
+[20210521 14:15:11 INFO root] Base initialized.
+[20210521 14:15:11 INFO root] net device startup ok
+[20210521 14:15:11 INFO root] 	FDSetSize       = 1024
+[20210521 14:15:11 INFO root] 	Version         = 110
+[20210521 14:15:11 INFO root] 	SendBufferSize  = 16384
+[20210521 14:15:11 INFO root] 	RecvBufferSize  = 87380
+[20210521 14:15:12 ERRO root] no sn 1.
+[20210521 14:15:12 INFO root] Connected to the db server successfully.
+[20210521 14:15:12 INFO root] Connected to the db server successfully.
+[20210521 14:15:12 INFO root] Connected to the db server successfully.
+[20210521 14:15:12 INFO root] Connected to the login server successfully.
+[20210521 14:15:15 INFO root] Register SUCCEEDED
+[20210521 14:15:15 INFO root] PK is ENABLED
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20400 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20401 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20402 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20403 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20404 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20405 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20406 npc=9904
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20400 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20401 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20402 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20403 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20404 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20405 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20406 npc=9905
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20407 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20408 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20409 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=21223 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20090 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20091 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20092 npc=9906
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20407 npc=9907
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20408 npc=9907
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20409 npc=9907
+[20210521 14:15:16 ERRO root] can not find drop class, ID=21223 npc=9907
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20090 npc=9907
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20091 npc=9907
+[20210521 14:15:16 ERRO root] can not find drop class, ID=20092 npc=9907
+[20210521 14:15:20 ERRO root] 表达式错误
+
+ffect(7542
+          ^
+[20210521 14:15:20 ERRO root] 括号 ')' 不匹配
+
+8)
+ ^
+[20210521 14:15:21 ERRO root] 操作数前面必须是运算符、括号或者空
+
+Rate(0.09)SkillAddCd
+          ^
+[20210521 14:15:21 WARN root] NpcAreaLoadRegion local\common\table/main/ningbiya/npc.csv: Line=588, Type=Common, NpcID=0
+[20210521 14:15:21 INFO root] CGameSystemAuction_Svr::Load: 0 Dealing Item Loaded
+[20210521 14:15:21 INFO root] CGameSystemAuction_Svr::Load: 0 Dealed Item Loaded
+[20210521 14:15:21 INFO root] [CGsGuildSvr::LoadFromDb] Guild Load Success, total = 0
+[20210521 14:15:21 INFO root] [CGsGuildSvr::LoadFromDb] GuildTerr Load Success, total = 0
+[20210521 14:15:21 INFO root] Connected to the db server successfully.
+[20210521 14:15:21 INFO root] [CGsMurderSvr::LoadFromDb] Murder Load Success, total = 0
+[20210521 14:15:21 INFO root] Auto Clear Tiredness @ 12:00:00
+[20210521 14:15:21 INFO root] server init ok
+[20210521 14:15:21 INFO root] ServerTick 1 = 2 [0] [0] [0] [2]
+[20210521 14:15:22 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210521 14:15:22 INFO root] ServerTick 168 = 374 [0] [374] [0] [0] (1)
+[20210521 14:15:23 INFO root] ServerTick 681 = 3 [0] [2] [0] [0]
+[20210521 14:15:23 INFO root] ServerTick 1186 = 18 [0] [18] [0] [0]
+[20210521 14:15:28 INFO root] ServerTick 5425 = 20 [0] [20] [0] [0]
+[20210521 14:16:01 ERRO root] [20210521 14:16:04 INFO root] ServerTick 34921 = 39 [0] [39] [0] [0]
+[20210521 14:16:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15039 timerobj=24
+[20210521 14:16:21 INFO root] STAT2:grid[total=222300,valid=9269,notify=3,active=9240], creature[notify=4, active=15033]
+[20210521 14:17:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15048 timerobj=24
+[20210521 14:17:21 INFO root] STAT2:grid[total=222300,valid=9241,notify=3,active=9217], creature[notify=4, active=15042]
+[20210521 14:17:29 INFO root] ServerTick 106048 = 45 [0] [45] [0] [0]
+[20210521 14:18:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15052 timerobj=24
+[20210521 14:18:21 INFO root] STAT2:grid[total=222300,valid=9217,notify=3,active=9185], creature[notify=4, active=15046]
+[20210521 14:19:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=24
+[20210521 14:19:21 INFO root] STAT2:grid[total=222300,valid=9224,notify=3,active=9194], creature[notify=4, active=15047]
+[20210521 14:20:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=24
+[20210521 14:20:21 INFO root] STAT2:grid[total=222300,valid=9240,notify=3,active=9195], creature[notify=4, active=15049]
+[20210521 14:21:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=24
+[20210521 14:21:21 INFO root] STAT2:grid[total=222300,valid=9191,notify=3,active=9163], creature[notify=4, active=15050]
+[20210521 14:22:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=24
+[20210521 14:22:21 INFO root] STAT2:grid[total=222300,valid=9237,notify=3,active=9202], creature[notify=4, active=15049]
+[20210521 14:23:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=24
+[20210521 14:23:21 INFO root] STAT2:grid[total=222300,valid=9205,notify=3,active=9170], creature[notify=4, active=15049]
+[20210521 14:24:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:24:21 INFO root] STAT2:grid[total=222300,valid=9210,notify=3,active=9177], creature[notify=4, active=15051]
+[20210521 14:25:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:25:21 INFO root] STAT2:grid[total=222300,valid=9240,notify=3,active=9207], creature[notify=4, active=15051]
+[20210521 14:26:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:26:21 INFO root] STAT2:grid[total=222300,valid=9225,notify=3,active=9200], creature[notify=4, active=15051]
+[20210521 14:27:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:27:21 INFO root] STAT2:grid[total=222300,valid=9164,notify=3,active=9132], creature[notify=4, active=15051]
+[20210521 14:27:50 ERRO root] [20210521 14:28:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=24
+[20210521 14:28:21 INFO root] STAT2:grid[total=222300,valid=9226,notify=3,active=9203], creature[notify=4, active=15048]
+[20210521 14:29:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=24
+[20210521 14:29:21 INFO root] STAT2:grid[total=222300,valid=9225,notify=3,active=9204], creature[notify=4, active=15050]
+[20210521 14:30:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=24
+[20210521 14:30:21 INFO root] STAT2:grid[total=222300,valid=9292,notify=3,active=9255], creature[notify=4, active=15049]
+[20210521 14:31:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:31:21 INFO root] STAT2:grid[total=222300,valid=9243,notify=3,active=9207], creature[notify=4, active=15052]
+[20210521 14:32:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:32:21 INFO root] STAT2:grid[total=222300,valid=9265,notify=3,active=9233], creature[notify=4, active=15051]
+[20210521 14:33:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:33:21 INFO root] STAT2:grid[total=222300,valid=9246,notify=3,active=9217], creature[notify=4, active=15052]
+[20210521 14:34:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15000 timerobj=24
+[20210521 14:34:21 INFO root] STAT2:grid[total=222300,valid=9228,notify=3,active=9191], creature[notify=4, active=14993]
+[20210521 14:35:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=24
+[20210521 14:35:21 INFO root] STAT2:grid[total=222300,valid=9232,notify=3,active=9195], creature[notify=4, active=15050]
+[20210521 14:36:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=24
+[20210521 14:36:21 INFO root] STAT2:grid[total=222300,valid=9221,notify=3,active=9194], creature[notify=4, active=15049]
+[20210521 14:37:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:37:21 INFO root] STAT2:grid[total=222300,valid=9245,notify=3,active=9216], creature[notify=4, active=15052]
+[20210521 14:38:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:38:21 INFO root] STAT2:grid[total=222300,valid=9260,notify=3,active=9230], creature[notify=4, active=15051]
+[20210521 14:39:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:39:21 INFO root] STAT2:grid[total=222300,valid=9268,notify=3,active=9232], creature[notify=4, active=15052]
+[20210521 14:40:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:40:21 INFO root] STAT2:grid[total=222300,valid=9304,notify=3,active=9267], creature[notify=4, active=15053]
+[20210521 14:41:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:41:21 INFO root] STAT2:grid[total=222300,valid=9255,notify=3,active=9226], creature[notify=4, active=15051]
+[20210521 14:42:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:42:21 INFO root] STAT2:grid[total=222300,valid=9279,notify=3,active=9239], creature[notify=4, active=15051]
+[20210521 14:43:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:43:21 INFO root] STAT2:grid[total=222300,valid=9260,notify=3,active=9233], creature[notify=4, active=15051]
+[20210521 14:44:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:44:21 INFO root] STAT2:grid[total=222300,valid=9222,notify=3,active=9191], creature[notify=4, active=15053]
+[20210521 14:45:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:45:21 INFO root] STAT2:grid[total=222300,valid=9248,notify=3,active=9215], creature[notify=4, active=15053]
+[20210521 14:46:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:46:21 INFO root] STAT2:grid[total=222300,valid=9212,notify=3,active=9181], creature[notify=4, active=15053]
+[20210521 14:47:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:47:21 INFO root] STAT2:grid[total=222300,valid=9224,notify=3,active=9197], creature[notify=4, active=15051]
+[20210521 14:48:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:48:21 INFO root] STAT2:grid[total=222300,valid=9242,notify=3,active=9198], creature[notify=4, active=15051]
+[20210521 14:49:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:49:21 INFO root] STAT2:grid[total=222300,valid=9227,notify=3,active=9190], creature[notify=4, active=15051]
+[20210521 14:50:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15002 timerobj=24
+[20210521 14:50:21 INFO root] STAT2:grid[total=222300,valid=9242,notify=3,active=9211], creature[notify=4, active=14996]
+[20210521 14:51:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:51:21 INFO root] STAT2:grid[total=222300,valid=9234,notify=3,active=9190], creature[notify=4, active=15052]
+[20210521 14:52:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:52:21 INFO root] STAT2:grid[total=222300,valid=9178,notify=3,active=9139], creature[notify=4, active=15053]
+[20210521 14:53:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:53:21 INFO root] STAT2:grid[total=222300,valid=9242,notify=3,active=9219], creature[notify=4, active=15052]
+[20210521 14:54:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:54:21 INFO root] STAT2:grid[total=222300,valid=9260,notify=3,active=9235], creature[notify=4, active=15051]
+[20210521 14:55:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=24
+[20210521 14:55:21 INFO root] STAT2:grid[total=222300,valid=9226,notify=3,active=9198], creature[notify=4, active=15050]
+[20210521 14:56:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 14:56:21 INFO root] STAT2:grid[total=222300,valid=9239,notify=3,active=9206], creature[notify=4, active=15051]
+[20210521 14:57:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:57:21 INFO root] STAT2:grid[total=222300,valid=9223,notify=3,active=9191], creature[notify=4, active=15052]
+[20210521 14:58:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 14:58:21 INFO root] STAT2:grid[total=222300,valid=9251,notify=3,active=9220], creature[notify=4, active=15053]
+[20210521 14:59:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 14:59:21 INFO root] STAT2:grid[total=222300,valid=9228,notify=3,active=9190], creature[notify=4, active=15052]
+[20210521 15:00:00 INFO EvCalendarEvent]     [9]'OutputPerfOnce' = true[20210521 15:00:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:00:21 INFO root] STAT2:grid[total=222300,valid=9235,notify=3,active=9202], creature[notify=4, active=15051]
+[20210521 15:01:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15004 timerobj=24
+[20210521 15:01:21 INFO root] STAT2:grid[total=222300,valid=9263,notify=3,active=9224], creature[notify=4, active=14998]
+[20210521 15:02:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:02:21 INFO root] STAT2:grid[total=222300,valid=9248,notify=3,active=9219], creature[notify=4, active=15051]
+[20210521 15:03:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:03:21 INFO root] STAT2:grid[total=222300,valid=9249,notify=3,active=9213], creature[notify=4, active=15053]
+[20210521 15:04:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:04:21 INFO root] STAT2:grid[total=222300,valid=9263,notify=3,active=9221], creature[notify=4, active=15053]
+[20210521 15:05:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:05:21 INFO root] STAT2:grid[total=222300,valid=9218,notify=3,active=9187], creature[notify=4, active=15053]
+[20210521 15:06:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:06:21 INFO root] STAT2:grid[total=222300,valid=9202,notify=3,active=9169], creature[notify=4, active=15053]
+[20210521 15:07:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:07:21 INFO root] STAT2:grid[total=222300,valid=9195,notify=3,active=9166], creature[notify=4, active=15051]
+[20210521 15:08:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:08:21 INFO root] STAT2:grid[total=222300,valid=9219,notify=3,active=9186], creature[notify=4, active=15051]
+[20210521 15:09:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15000 timerobj=24
+[20210521 15:09:21 INFO root] STAT2:grid[total=222300,valid=9222,notify=3,active=9190], creature[notify=4, active=14996]
+[20210521 15:10:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:10:21 INFO root] STAT2:grid[total=222300,valid=9203,notify=3,active=9173], creature[notify=4, active=15053]
+[20210521 15:11:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:11:21 INFO root] STAT2:grid[total=222300,valid=9249,notify=3,active=9212], creature[notify=4, active=15053]
+[20210521 15:12:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:12:21 INFO root] STAT2:grid[total=222300,valid=9242,notify=3,active=9214], creature[notify=4, active=15053]
+[20210521 15:13:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:13:21 INFO root] STAT2:grid[total=222300,valid=9218,notify=3,active=9188], creature[notify=4, active=15051]
+[20210521 15:14:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=24
+[20210521 15:14:21 INFO root] STAT2:grid[total=222300,valid=9250,notify=3,active=9221], creature[notify=4, active=15050]
+[20210521 15:15:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:15:21 INFO root] STAT2:grid[total=222300,valid=9220,notify=3,active=9189], creature[notify=4, active=15051]
+[20210521 15:16:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 15:16:21 INFO root] STAT2:grid[total=222300,valid=9158,notify=3,active=9123], creature[notify=4, active=15052]
+[20210521 15:17:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:17:21 INFO root] STAT2:grid[total=222300,valid=9191,notify=3,active=9156], creature[notify=4, active=15053]
+[20210521 15:18:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=24
+[20210521 15:18:21 INFO root] STAT2:grid[total=222300,valid=9215,notify=3,active=9173], creature[notify=4, active=15052]
+[20210521 15:19:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15059 timerobj=24
+[20210521 15:19:21 INFO root] STAT2:grid[total=222300,valid=9248,notify=3,active=9216], creature[notify=4, active=15053]
+[20210521 15:20:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=24
+[20210521 15:20:21 INFO root] STAT2:grid[total=222300,valid=9226,notify=3,active=9191], creature[notify=4, active=15050]
+[20210521 15:21:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15057 timerobj=24
+[20210521 15:21:21 INFO root] STAT2:grid[total=222300,valid=9300,notify=3,active=9267], creature[notify=4, active=15051]
+[20210521 15:22:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 15:22:21 INFO root] STAT2:grid[total=222300,valid=9208,notify=3,active=9177], creature[notify=4, active=15057]
+[20210521 15:23:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:23:21 INFO root] STAT2:grid[total=222300,valid=9249,notify=3,active=9214], creature[notify=4, active=15058]
+[20210521 15:24:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 15:24:21 INFO root] STAT2:grid[total=222300,valid=9259,notify=3,active=9226], creature[notify=4, active=15057]
+[20210521 15:25:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15007 timerobj=24
+[20210521 15:25:21 INFO root] STAT2:grid[total=222300,valid=9222,notify=3,active=9188], creature[notify=4, active=15001]
+[20210521 15:26:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:26:21 INFO root] STAT2:grid[total=222300,valid=9220,notify=3,active=9197], creature[notify=4, active=15056]
+[20210521 15:27:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:27:21 INFO root] STAT2:grid[total=222300,valid=9239,notify=3,active=9210], creature[notify=4, active=15056]
+[20210521 15:28:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:28:21 INFO root] STAT2:grid[total=222300,valid=9313,notify=3,active=9278], creature[notify=4, active=15056]
+[20210521 15:29:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:29:21 INFO root] STAT2:grid[total=222300,valid=9255,notify=3,active=9220], creature[notify=4, active=15058]
+[20210521 15:30:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:30:21 INFO root] STAT2:grid[total=222300,valid=9276,notify=3,active=9244], creature[notify=4, active=15058]
+[20210521 15:31:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:31:21 INFO root] STAT2:grid[total=222300,valid=9309,notify=3,active=9284], creature[notify=4, active=15058]
+[20210521 15:32:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:32:21 INFO root] STAT2:grid[total=222300,valid=9277,notify=3,active=9243], creature[notify=4, active=15058]
+[20210521 15:33:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:33:21 INFO root] STAT2:grid[total=222300,valid=9220,notify=3,active=9182], creature[notify=4, active=15056]
+[20210521 15:34:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:34:21 INFO root] STAT2:grid[total=222300,valid=9239,notify=3,active=9207], creature[notify=4, active=15056]
+[20210521 15:35:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:35:21 INFO root] STAT2:grid[total=222300,valid=9249,notify=3,active=9215], creature[notify=4, active=15058]
+[20210521 15:36:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:36:21 INFO root] STAT2:grid[total=222300,valid=9253,notify=3,active=9222], creature[notify=4, active=15058]
+[20210521 15:37:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 15:37:21 INFO root] STAT2:grid[total=222300,valid=9287,notify=3,active=9253], creature[notify=4, active=15057]
+[20210521 15:38:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:38:21 INFO root] STAT2:grid[total=222300,valid=9258,notify=3,active=9236], creature[notify=4, active=15058]
+[20210521 15:39:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15061 timerobj=24
+[20210521 15:39:21 INFO root] STAT2:grid[total=222300,valid=9244,notify=3,active=9211], creature[notify=4, active=15055]
+[20210521 15:40:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:40:21 INFO root] STAT2:grid[total=222300,valid=9229,notify=3,active=9199], creature[notify=4, active=15056]
+[20210521 15:41:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15061 timerobj=24
+[20210521 15:41:21 INFO root] STAT2:grid[total=222300,valid=9272,notify=3,active=9227], creature[notify=4, active=15052]
+[20210521 15:42:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:42:21 INFO root] STAT2:grid[total=222300,valid=9243,notify=3,active=9215], creature[notify=4, active=15058]
+[20210521 15:43:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 15:43:21 INFO root] STAT2:grid[total=222300,valid=9230,notify=3,active=9200], creature[notify=4, active=15057]
+[20210521 15:44:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:44:21 INFO root] STAT2:grid[total=222300,valid=9215,notify=3,active=9183], creature[notify=4, active=15058]
+[20210521 15:45:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15061 timerobj=24
+[20210521 15:45:21 INFO root] STAT2:grid[total=222300,valid=9214,notify=3,active=9187], creature[notify=4, active=15055]
+[20210521 15:46:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:46:21 INFO root] STAT2:grid[total=222300,valid=9247,notify=3,active=9215], creature[notify=4, active=15056]
+[20210521 15:47:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15009 timerobj=24
+[20210521 15:47:21 INFO root] STAT2:grid[total=222300,valid=9259,notify=3,active=9228], creature[notify=4, active=15003]
+[20210521 15:48:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:48:21 INFO root] STAT2:grid[total=222300,valid=9251,notify=3,active=9226], creature[notify=4, active=15058]
+[20210521 15:49:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:49:21 INFO root] STAT2:grid[total=222300,valid=9230,notify=3,active=9202], creature[notify=4, active=15058]
+[20210521 15:50:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:50:21 INFO root] STAT2:grid[total=222300,valid=9268,notify=3,active=9236], creature[notify=4, active=15058]
+[20210521 15:51:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:51:21 INFO root] STAT2:grid[total=222300,valid=9289,notify=3,active=9265], creature[notify=4, active=15058]
+[20210521 15:52:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:52:21 INFO root] STAT2:grid[total=222300,valid=9226,notify=3,active=9192], creature[notify=4, active=15056]
+[20210521 15:53:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:53:21 INFO root] STAT2:grid[total=222300,valid=9241,notify=5,active=9203], creature[notify=8, active=15052]
+[20210521 15:54:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:54:21 INFO root] STAT2:grid[total=222300,valid=9243,notify=3,active=9223], creature[notify=4, active=15058]
+[20210521 15:55:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:55:21 INFO root] STAT2:grid[total=222300,valid=9299,notify=4,active=9267], creature[notify=4, active=15058]
+[20210521 15:56:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:56:21 INFO root] STAT2:grid[total=222300,valid=9234,notify=4,active=9202], creature[notify=4, active=15058]
+[20210521 15:57:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 15:57:21 INFO root] STAT2:grid[total=222300,valid=9211,notify=4,active=9179], creature[notify=4, active=15058]
+[20210521 15:58:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:58:21 INFO root] STAT2:grid[total=222300,valid=9251,notify=4,active=9208], creature[notify=4, active=15056]
+[20210521 15:59:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 15:59:21 INFO root] STAT2:grid[total=222300,valid=9200,notify=7,active=9159], creature[notify=7, active=15053]
+[20210521 16:00:00 INFO EvCalendarEvent]     [9]'OutputPerfOnce' = true[20210521 16:00:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15004 timerobj=24
+[20210521 16:00:21 INFO root] STAT2:grid[total=222300,valid=9239,notify=4,active=9207], creature[notify=4, active=14998]
+[20210521 16:01:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:01:21 INFO root] STAT2:grid[total=222300,valid=9246,notify=3,active=9207], creature[notify=4, active=15058]
+[20210521 16:02:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 16:02:21 INFO root] STAT2:grid[total=222300,valid=9249,notify=3,active=9213], creature[notify=4, active=15057]
+[20210521 16:03:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:03:21 INFO root] STAT2:grid[total=222300,valid=9245,notify=3,active=9211], creature[notify=4, active=15058]
+[20210521 16:04:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 16:04:21 INFO root] STAT2:grid[total=222300,valid=9239,notify=3,active=9208], creature[notify=4, active=15057]
+[20210521 16:05:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:05:21 INFO root] STAT2:grid[total=222300,valid=9264,notify=3,active=9229], creature[notify=4, active=15056]
+[20210521 16:06:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15061 timerobj=24
+[20210521 16:06:21 INFO root] STAT2:grid[total=222300,valid=9264,notify=3,active=9242], creature[notify=4, active=15055]
+[20210521 16:07:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:07:21 INFO root] STAT2:grid[total=222300,valid=9250,notify=8,active=9217], creature[notify=12, active=15050]
+[20210521 16:08:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 16:08:21 INFO root] STAT2:grid[total=222300,valid=9230,notify=8,active=9196], creature[notify=12, active=15049]
+[20210521 16:09:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:09:21 INFO root] STAT2:grid[total=222300,valid=9272,notify=8,active=9232], creature[notify=12, active=15050]
+[20210521 16:10:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 16:10:21 INFO root] STAT2:grid[total=222300,valid=9306,notify=8,active=9268], creature[notify=12, active=15049]
+[20210521 16:11:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:11:21 INFO root] STAT2:grid[total=222300,valid=9279,notify=8,active=9235], creature[notify=12, active=15048]
+[20210521 16:12:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:12:21 INFO root] STAT2:grid[total=222300,valid=9223,notify=8,active=9192], creature[notify=12, active=15048]
+[20210521 16:13:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:13:21 INFO root] STAT2:grid[total=222300,valid=9277,notify=3,active=9246], creature[notify=4, active=15056]
+[20210521 16:14:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:14:21 INFO root] STAT2:grid[total=222300,valid=9253,notify=3,active=9212], creature[notify=4, active=15058]
+[20210521 16:15:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:15:21 INFO root] STAT2:grid[total=222300,valid=9200,notify=3,active=9175], creature[notify=4, active=15058]
+[20210521 16:16:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15007 timerobj=24
+[20210521 16:16:21 INFO root] STAT2:grid[total=222300,valid=9245,notify=3,active=9204], creature[notify=4, active=15001]
+[20210521 16:17:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:17:21 INFO root] STAT2:grid[total=222300,valid=9240,notify=3,active=9209], creature[notify=4, active=15058]
+[20210521 16:18:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:18:21 INFO root] STAT2:grid[total=222300,valid=9269,notify=3,active=9236], creature[notify=4, active=15056]
+[20210521 16:19:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:19:21 INFO root] STAT2:grid[total=222300,valid=9309,notify=3,active=9280], creature[notify=4, active=15056]
+[20210521 16:20:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:20:21 INFO root] STAT2:grid[total=222300,valid=9269,notify=3,active=9244], creature[notify=4, active=15058]
+[20210521 16:21:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:21:21 INFO root] STAT2:grid[total=222300,valid=9270,notify=3,active=9239], creature[notify=4, active=15058]
+[20210521 16:22:10 INFO root] ServerTick 6353284 = 52 [0] [52] [0] [0]
+[20210521 16:22:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15064 timerobj=24
+[20210521 16:22:21 INFO root] STAT2:grid[total=222300,valid=9272,notify=3,active=9234], creature[notify=4, active=15058]
+[20210521 16:23:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=24
+[20210521 16:23:21 INFO root] STAT2:grid[total=222300,valid=9239,notify=3,active=9208], creature[notify=4, active=15057]
+[20210521 16:24:21 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=24
+[20210521 16:24:21 INFO root] STAT2:grid[total=222300,valid=9274,notify=3,active=9238], creature[notify=4, active=15056]
+[20210521 16:24:56 ALERT root] Game server shutdown by [Harshyo]. (60s)
+[20210521 16:24:58 ERRO root] [20210521 16:25:21 INFO root] STAT:user=2 ectype=0,0,0,0 stall=0 dun=0 obj=15062 timerobj=26
+[20210521 16:25:21 INFO root] STAT2:grid[total=222300,valid=9313,notify=6,active=9275], creature[notify=6, active=15052]
+[20210521 16:25:56 INFO root] ToQuit 50s
+[20210521 16:26:06 INFO root] ToQuit 40s
+[20210521 16:26:16 INFO root] ToQuit 30s
+[20210521 16:26:21 INFO root] STAT:user=2 ectype=0,0,0,0 stall=0 dun=0 obj=15063 timerobj=26
+[20210521 16:26:21 INFO root] STAT2:grid[total=222300,valid=9278,notify=8,active=9243], creature[notify=11, active=15046]
+[20210521 16:26:26 INFO root] ToQuit 20s
+[20210521 16:26:36 INFO root] ToQuit 10s
+[20210521 16:26:56 INFO root] Quiting ...
+[20210521 16:26:56 INFO root]   Saving user data, Don`t shutdown game server app
+[20210521 16:26:56 INFO root]   Last 2 Second ...
+[20210521 16:26:58 INFO root]   Quit ok
+[20210521 16:26:58 INFO root] server exit(0)
+[20210521 16:26:58 INFO root] AI Manger 退出, 15063个AI对象被摧毁
+[20210521 16:26:58 INFO root] Disconnect from the db server.
+[20210521 16:26:58 INFO root] object leak 0
+[20210521 16:26:58 INFO root] Disconnect from the db server.
+[20210521 16:26:58 INFO root] Disconnect from the db server.
+[20210521 16:26:58 INFO root] Disconnect from the db server.
+[20210521 16:26:58 ERRO root] Disconnect from the login server. (shutdown)
+[20210521 16:26:58 INFO root] ActorOperate total num = 50, free = 50
+[20210521 16:26:58 INFO root] The free npc node list size is 40000, used buffer count is 2.
+[20210521 16:26:58 INFO root] The free user node list size is 2000, used buffer count is 1.
+[20210521 16:26:58 INFO root] Base exit.
+[20210521 16:26:58 INFO root] script engine shutdown Ok
+[20210521 16:26:58 INFO root] net device exit ok

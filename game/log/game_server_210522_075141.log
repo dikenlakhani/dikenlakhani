@@ -1,0 +1,163 @@
+[20210522 07:51:41 INFO root] Base initialized.
+[20210522 07:51:41 INFO root] net device startup ok
+[20210522 07:51:41 INFO root] 	FDSetSize       = 1024
+[20210522 07:51:41 INFO root] 	Version         = 110
+[20210522 07:51:41 INFO root] 	SendBufferSize  = 16384
+[20210522 07:51:41 INFO root] 	RecvBufferSize  = 87380
+[20210522 07:51:42 ERRO root] no sn 1.
+[20210522 07:51:42 INFO root] Connected to the db server successfully.
+[20210522 07:51:42 INFO root] Connected to the db server successfully.
+[20210522 07:51:42 INFO root] Connected to the db server successfully.
+[20210522 07:51:42 INFO root] Connected to the login server successfully.
+[20210522 07:51:45 INFO root] Register SUCCEEDED
+[20210522 07:51:45 INFO root] PK is ENABLED
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20400 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20401 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20402 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20403 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20404 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20405 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20406 npc=9904
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20400 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20401 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20402 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20403 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20404 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20405 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20406 npc=9905
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20407 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20408 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20409 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=21223 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20090 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20091 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20092 npc=9906
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20407 npc=9907
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20408 npc=9907
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20409 npc=9907
+[20210522 07:51:46 ERRO root] can not find drop class, ID=21223 npc=9907
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20090 npc=9907
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20091 npc=9907
+[20210522 07:51:46 ERRO root] can not find drop class, ID=20092 npc=9907
+[20210522 07:51:51 ERRO root] 操作数前面必须是运算符、括号或者空
+
+Rate(0.09)SkillAddCd
+          ^
+[20210522 07:51:51 WARN root] NpcAreaLoadRegion local\common\table/main/ningbiya/npc.csv: Line=588, Type=Common, NpcID=0
+[20210522 07:51:51 INFO root] CGameSystemAuction_Svr::Load: 0 Dealing Item Loaded
+[20210522 07:51:51 INFO root] CGameSystemAuction_Svr::Load: 0 Dealed Item Loaded
+[20210522 07:51:51 INFO root] [CGsGuildSvr::LoadFromDb] Guild Load Success, total = 0
+[20210522 07:51:51 INFO root] [CGsGuildSvr::LoadFromDb] GuildTerr Load Success, total = 0
+[20210522 07:51:51 INFO root] Connected to the db server successfully.
+[20210522 07:51:51 INFO root] [CGsMurderSvr::LoadFromDb] Murder Load Success, total = 0
+[20210522 07:51:51 INFO root] Auto Clear Tiredness @ 12:00:00
+[20210522 07:51:51 INFO root] server init ok
+[20210522 07:51:51 INFO root] ServerTick 1 = 1 [0] [0] [0] [1]
+[20210522 07:51:52 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 07:51:52 INFO root] ServerTick 168 = 379 [0] [379] [0] [0] (1)
+[20210522 07:51:52 INFO root] ServerTick 345 = 3 [0] [3] [0] [0]
+[20210522 07:51:53 INFO root] ServerTick 1132 = 19 [0] [19] [0] [0]
+[20210522 07:51:58 INFO root] ServerTick 5296 = 21 [0] [21] [0] [0]
+[20210522 07:52:02 ERRO root] [20210522 07:52:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15037 timerobj=25
+[20210522 07:52:51 INFO root] STAT2:grid[total=222300,valid=9292,notify=6,active=9258], creature[notify=4, active=15031]
+[20210522 07:53:42 INFO root] ServerTick 91288 = 22 [0] [22] [0] [0]
+[20210522 07:53:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15044 timerobj=25
+[20210522 07:53:51 INFO root] STAT2:grid[total=222300,valid=9233,notify=7,active=9197], creature[notify=10, active=15032]
+[20210522 07:54:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15052 timerobj=25
+[20210522 07:54:51 INFO root] STAT2:grid[total=222300,valid=9254,notify=7,active=9224], creature[notify=13, active=15037]
+[20210522 07:54:53 INFO root] ServerTick 151048 = 24 [0] [24] [0] [0]
+[20210522 07:55:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=25
+[20210522 07:55:51 INFO root] STAT2:grid[total=222300,valid=9240,notify=4,active=9206], creature[notify=4, active=15047]
+[20210522 07:56:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 07:56:51 INFO root] STAT2:grid[total=222300,valid=9313,notify=6,active=9277], creature[notify=11, active=15041]
+[20210522 07:56:59 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=8)
+[20210522 07:56:59 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=8|i=556;b=2;smL=7;c=2;upL=70|i=566;b=2;smL=7;c=2;upL=70|i=9353;b=2|i=9354;b=2|i=9868;b=2|i=9208;b=2|i=8805;b=2)!
+[20210522 07:57:01 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=8)
+[20210522 07:57:01 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=8|i=556;b=2;smL=7;c=2;upL=70|i=566;b=2;smL=7;c=2;upL=70|i=9353;b=2|i=9354;b=2|i=9868;b=2|i=9208;b=2|i=8805;b=2)!
+[20210522 07:57:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 07:57:51 INFO root] STAT2:grid[total=222300,valid=9248,notify=6,active=9218], creature[notify=12, active=15040]
+[20210522 07:58:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 07:58:51 INFO root] STAT2:grid[total=222300,valid=9244,notify=6,active=9206], creature[notify=12, active=15040]
+[20210522 07:59:01 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=8)
+[20210522 07:59:01 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=8|i=556;b=2;smL=7;c=2;upL=70|i=566;b=2;smL=7;c=2;upL=70|i=9353;b=2|i=9354;b=2|i=9868;b=2|i=9208;b=2|i=8805;b=2)!
+[20210522 07:59:09 INFO root] ServerTick 364015 = 29 [0] [29] [0] [0]
+[20210522 07:59:13 INFO root] ServerTick 367276 = 47 [0] [47] [0] [0]
+[20210522 07:59:15 INFO root] ServerTick 368830 = 57 [0] [57] [0] [0]
+[20210522 07:59:19 INFO root] ServerTick 371089 = 235 [0] [235] [0] [0] (2)
+[20210522 07:59:20 INFO root] ServerTick 371602 = 201 [0] [201] [0] [0] (2)
+[20210522 07:59:21 INFO root] ServerTick 372190 = 224 [0] [224] [0] [0] (2)
+[20210522 07:59:22 INFO root] ServerTick 372715 = 221 [0] [221] [0] [0] (2)
+[20210522 07:59:23 INFO root] ServerTick 373213 = 205 [0] [205] [0] [0] (2)
+[20210522 07:59:24 INFO root] ServerTick 373732 = 222 [0] [222] [0] [0] (2)
+[20210522 07:59:25 INFO root] ServerTick 374284 = 226 [0] [226] [0] [0] (2)
+[20210522 07:59:26 INFO root] ServerTick 374794 = 197 [0] [197] [0] [0] (2)
+[20210522 07:59:27 INFO root] ServerTick 375322 = 222 [0] [222] [0] [0] (2)
+[20210522 07:59:28 INFO root] ServerTick 375829 = 218 [0] [218] [0] [0] (2)
+[20210522 07:59:29 INFO root] ServerTick 376324 = 214 [0] [214] [0] [0] (2)
+[20210522 07:59:30 INFO root] ServerTick 376882 = 234 [0] [234] [0] [0] (2)
+[20210522 07:59:32 INFO root] ServerTick 377488 = 231 [0] [231] [0] [0] (2)
+[20210522 07:59:33 INFO root] ServerTick 377989 = 210 [0] [210] [0] [0] (2)
+[20210522 07:59:34 INFO root] ServerTick 378493 = 225 [0] [225] [0] [0] (2)
+[20210522 07:59:35 INFO root] ServerTick 379021 = 199 [0] [199] [0] [0] (2)
+[20210522 07:59:36 INFO root] ServerTick 379549 = 224 [0] [224] [0] [0] (2)
+[20210522 07:59:37 INFO root] ServerTick 380125 = 230 [0] [230] [0] [0] (2)
+[20210522 07:59:38 INFO root] ServerTick 380698 = 222 [0] [222] [0] [0] (2)
+[20210522 07:59:39 INFO root] ServerTick 381250 = 214 [0] [214] [0] [0] (2)
+[20210522 07:59:40 INFO root] ServerTick 381829 = 213 [0] [213] [0] [0] (2)
+[20210522 07:59:41 INFO root] ServerTick 382432 = 214 [0] [214] [0] [0] (2)
+[20210522 07:59:42 INFO root] ServerTick 382939 = 236 [0] [236] [0] [0] (2)
+[20210522 07:59:43 INFO root] ServerTick 383473 = 205 [0] [205] [0] [0] (2)
+[20210522 07:59:43 INFO root] ServerTick 383475 = 71 [0] [70] [0] [1]
+[20210522 07:59:44 INFO root] ServerTick 384043 = 221 [0] [221] [0] [0] (2)
+[20210522 07:59:46 INFO root] ServerTick 384586 = 223 [0] [223] [0] [0] (2)
+[20210522 07:59:47 INFO root] ServerTick 385120 = 231 [0] [231] [0] [0] (2)
+[20210522 07:59:48 INFO root] ServerTick 385600 = 222 [0] [222] [0] [0] (2)
+[20210522 07:59:49 INFO root] ServerTick 386116 = 217 [0] [217] [0] [0] (2)
+[20210522 07:59:50 INFO root] ServerTick 386626 = 209 [0] [209] [0] [0] (2)
+[20210522 07:59:51 INFO root] ServerTick 387139 = 216 [0] [216] [0] [0] (2)
+[20210522 07:59:51 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=25
+[20210522 07:59:51 INFO root] STAT2:grid[total=222300,valid=9200,notify=6,active=9160], creature[notify=12, active=15041]
+[20210522 07:59:52 INFO root] ServerTick 387685 = 217 [0] [217] [0] [0] (2)
+[20210522 07:59:53 INFO root] ServerTick 388282 = 210 [0] [210] [0] [0] (2)
+[20210522 07:59:54 INFO root] ServerTick 388771 = 214 [0] [214] [0] [0] (2)
+[20210522 07:59:55 INFO root] ServerTick 389272 = 230 [0] [230] [0] [0] (2)
+[20210522 07:59:56 INFO root] ServerTick 389779 = 206 [0] [206] [0] [0] (2)
+[20210522 07:59:57 INFO root] ServerTick 390289 = 197 [0] [197] [0] [0] (2)
+[20210522 07:59:58 INFO root] ServerTick 390835 = 214 [0] [214] [0] [0] (2)
+[20210522 07:59:59 INFO root] ServerTick 391393 = 193 [0] [193] [0] [0] (2)
+[20210522 08:00:00 INFO EvCalendarEvent]     [9]'OutputPerfOnce' = true[20210522 08:00:01 INFO root] ServerTick 391975 = 211 [0] [211] [0] [0] (2)
+[20210522 08:00:02 INFO root] ServerTick 392551 = 276 [0] [276] [0] [0] (2)
+[20210522 08:00:02 INFO root] ServerTick 392553 = 79 [0] [79] [0] [0]
+[20210522 08:00:03 INFO root] ServerTick 393082 = 205 [0] [205] [0] [0] (2)
+[20210522 08:00:04 INFO root] ServerTick 393676 = 224 [0] [224] [0] [0] (2)
+[20210522 08:00:05 INFO root] ServerTick 394270 = 221 [0] [221] [0] [0] (2)
+[20210522 08:00:06 INFO root] ServerTick 394861 = 235 [0] [235] [0] [0] (2)
+[20210522 08:00:07 INFO root] ServerTick 395449 = 201 [0] [201] [0] [0] (2)
+[20210522 08:00:51 INFO root] STAT:user=0 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=22
+[20210522 08:00:51 INFO root] STAT2:grid[total=222300,valid=9224,notify=0,active=9196], creature[notify=0, active=15054]
+[20210522 08:01:40 ALERT root] Game server shutdown by [System]. (0s)
+[20210522 08:01:40 INFO root] ToQuit 50s
+[20210522 08:01:50 INFO root] ToQuit 40s
+[20210522 08:01:51 INFO root] STAT:user=0 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=22
+[20210522 08:01:51 INFO root] STAT2:grid[total=222300,valid=9278,notify=0,active=9247], creature[notify=0, active=15055]
+[20210522 08:02:00 INFO root] ToQuit 30s
+[20210522 08:02:10 INFO root] ToQuit 20s
+[20210522 08:02:20 INFO root] ToQuit 10s
+[20210522 08:02:40 INFO root] Quiting ...
+[20210522 08:02:40 INFO root]   Saving user data, Don`t shutdown game server app
+[20210522 08:02:40 INFO root]   Last 2 Second ...
+[20210522 08:02:42 INFO root]   Quit ok
+[20210522 08:02:42 INFO root] server exit(2)
+[20210522 08:02:42 INFO root] AI Manger 退出, 15057个AI对象被摧毁
+[20210522 08:02:42 INFO root] Disconnect from the db server.
+[20210522 08:02:43 INFO root] object leak 0
+[20210522 08:02:43 INFO root] Disconnect from the db server.
+[20210522 08:02:43 INFO root] Disconnect from the db server.
+[20210522 08:02:43 INFO root] Disconnect from the db server.
+[20210522 08:02:43 ERRO root] Disconnect from the login server. (shutdown)
+[20210522 08:02:43 INFO root] ActorOperate total num = 50, free = 50
+[20210522 08:02:43 INFO root] The free npc node list size is 40000, used buffer count is 2.
+[20210522 08:02:43 INFO root] The free user node list size is 2000, used buffer count is 1.
+[20210522 08:02:43 INFO root] Base exit.
+[20210522 08:02:43 INFO root] script engine shutdown Ok
+[20210522 08:02:43 INFO root] net device exit ok

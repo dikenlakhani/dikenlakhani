@@ -1,0 +1,502 @@
+[20210522 04:25:45 INFO root] Base initialized.
+[20210522 04:25:45 INFO root] net device startup ok
+[20210522 04:25:45 INFO root] 	FDSetSize       = 1024
+[20210522 04:25:45 INFO root] 	Version         = 110
+[20210522 04:25:45 INFO root] 	SendBufferSize  = 16384
+[20210522 04:25:45 INFO root] 	RecvBufferSize  = 87380
+[20210522 04:25:45 ERRO root] no sn 1.
+[20210522 04:25:45 INFO root] Connected to the db server successfully.
+[20210522 04:25:45 INFO root] Connected to the db server successfully.
+[20210522 04:25:45 INFO root] Connected to the db server successfully.
+[20210522 04:25:45 INFO root] Connected to the login server successfully.
+[20210522 04:25:49 INFO root] Register SUCCEEDED
+[20210522 04:25:49 INFO root] PK is ENABLED
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20400 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20401 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20402 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20403 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20404 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20405 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20406 npc=9904
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20400 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20401 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20402 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20403 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20404 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20405 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20406 npc=9905
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20407 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20408 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20409 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=21223 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20090 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20091 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20092 npc=9906
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20407 npc=9907
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20408 npc=9907
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20409 npc=9907
+[20210522 04:25:50 ERRO root] can not find drop class, ID=21223 npc=9907
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20090 npc=9907
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20091 npc=9907
+[20210522 04:25:50 ERRO root] can not find drop class, ID=20092 npc=9907
+[20210522 04:25:55 ERRO root] 操作数前面必须是运算符、括号或者空
+
+Rate(0.09)SkillAddCd
+          ^
+[20210522 04:25:55 WARN root] NpcAreaLoadRegion local\common\table/main/ningbiya/npc.csv: Line=588, Type=Common, NpcID=0
+[20210522 04:25:55 INFO root] CGameSystemAuction_Svr::Load: 0 Dealing Item Loaded
+[20210522 04:25:55 INFO root] CGameSystemAuction_Svr::Load: 0 Dealed Item Loaded
+[20210522 04:25:55 INFO root] [CGsGuildSvr::LoadFromDb] Guild Load Success, total = 0
+[20210522 04:25:55 INFO root] [CGsGuildSvr::LoadFromDb] GuildTerr Load Success, total = 0
+[20210522 04:25:55 INFO root] Connected to the db server successfully.
+[20210522 04:25:55 INFO root] [CGsMurderSvr::LoadFromDb] Murder Load Success, total = 0
+[20210522 04:25:55 INFO root] Auto Clear Tiredness @ 12:00:00
+[20210522 04:25:55 INFO root] server init ok
+[20210522 04:25:55 INFO root] ServerTick 1 = 1 [0] [0] [0] [1]
+[20210522 04:25:56 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:25:56 INFO root] ServerTick 171 = 377 [0] [377] [0] [0] (1)
+[20210522 04:25:56 INFO root] ServerTick 348 = 3 [0] [3] [0] [0]
+[20210522 04:25:57 INFO root] ServerTick 1204 = 19 [0] [19] [0] [0]
+[20210522 04:26:01 INFO root] ServerTick 4576 = 20 [0] [20] [0] [0]
+[20210522 04:26:02 INFO root] ServerTick 5425 = 23 [0] [23] [0] [0]
+[20210522 04:26:37 INFO root] ServerTick 34021 = 27 [0] [27] [0] [0]
+[20210522 04:26:55 INFO root] STAT:user=0 ectype=0,0,0,0 stall=0 dun=0 obj=15043 timerobj=22
+[20210522 04:26:55 INFO root] STAT2:grid[total=222300,valid=9268,notify=0,active=9246], creature[notify=0, active=15042]
+[20210522 04:27:55 INFO root] STAT:user=0 ectype=0,0,0,0 stall=0 dun=0 obj=15047 timerobj=22
+[20210522 04:27:55 INFO root] STAT2:grid[total=222300,valid=9233,notify=0,active=9207], creature[notify=0, active=15046]
+[20210522 04:28:01 ERRO root] [20210522 04:28:42 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:28:42 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:28:48 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:28:48 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:28:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15052 timerobj=25
+[20210522 04:28:55 INFO root] STAT2:grid[total=222300,valid=9245,notify=9,active=9212], creature[notify=27, active=15023]
+[20210522 04:29:02 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:29:02 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:29:07 INFO root] ServerTick 159379 = 30 [0] [30] [0] [0]
+[20210522 04:29:12 INFO root] ServerTick 163441 = 45 [0] [45] [0] [0]
+[20210522 04:29:15 INFO root] ServerTick 164998 = 52 [0] [52] [0] [0]
+[20210522 04:29:18 INFO root] ServerTick 167224 = 201 [0] [201] [0] [0] (2)
+[20210522 04:29:19 INFO root] ServerTick 167785 = 225 [0] [225] [0] [0] (2)
+[20210522 04:29:20 INFO root] ServerTick 168304 = 221 [0] [221] [0] [0] (2)
+[20210522 04:29:21 INFO root] ServerTick 168880 = 218 [0] [218] [0] [0] (2)
+[20210522 04:29:22 INFO root] ServerTick 169444 = 210 [0] [210] [0] [0] (2)
+[20210522 04:29:23 INFO root] ServerTick 170026 = 222 [0] [222] [0] [0] (2)
+[20210522 04:29:24 INFO root] ServerTick 170569 = 180 [0] [180] [0] [0] (2)
+[20210522 04:29:25 INFO root] ServerTick 171082 = 197 [0] [197] [0] [0] (2)
+[20210522 04:29:26 INFO root] ServerTick 171616 = 218 [0] [218] [0] [0] (2)
+[20210522 04:29:27 INFO root] ServerTick 172156 = 226 [0] [226] [0] [0] (2)
+[20210522 04:29:28 INFO root] ServerTick 172657 = 206 [0] [206] [0] [0] (2)
+[20210522 04:29:30 INFO root] ServerTick 173221 = 237 [0] [237] [0] [0] (2)
+[20210522 04:29:31 INFO root] ServerTick 173770 = 232 [0] [232] [0] [0] (2)
+[20210522 04:29:32 INFO root] ServerTick 174280 = 194 [0] [193] [0] [1] (2)
+[20210522 04:29:33 INFO root] ServerTick 174775 = 220 [0] [220] [0] [0] (2)
+[20210522 04:29:34 INFO root] ServerTick 175279 = 222 [0] [222] [0] [0] (2)
+[20210522 04:29:35 INFO root] ServerTick 175774 = 205 [0] [205] [0] [0] (2)
+[20210522 04:29:36 INFO root] ServerTick 176263 = 230 [0] [230] [0] [0] (2)
+[20210522 04:29:37 INFO root] ServerTick 176800 = 206 [0] [206] [0] [0] (2)
+[20210522 04:29:38 INFO root] ServerTick 177325 = 206 [0] [206] [0] [0] (2)
+[20210522 04:29:39 INFO root] ServerTick 177847 = 225 [0] [225] [0] [0] (2)
+[20210522 04:29:40 INFO root] ServerTick 178357 = 217 [0] [217] [0] [0] (2)
+[20210522 04:29:41 INFO root] ServerTick 178852 = 218 [0] [218] [0] [0] (2)
+[20210522 04:29:42 INFO root] ServerTick 179356 = 200 [0] [200] [0] [0] (2)
+[20210522 04:29:44 INFO root] ServerTick 179959 = 222 [0] [222] [0] [0] (2)
+[20210522 04:29:45 INFO root] ServerTick 180562 = 221 [0] [221] [0] [0] (2)
+[20210522 04:29:46 INFO root] ServerTick 181132 = 207 [0] [207] [0] [0] (2)
+[20210522 04:29:47 INFO root] ServerTick 181687 = 220 [0] [220] [0] [0] (2)
+[20210522 04:29:48 INFO root] ServerTick 182230 = 228 [0] [228] [0] [0] (2)
+[20210522 04:29:49 INFO root] ServerTick 182725 = 192 [0] [192] [0] [0] (2)
+[20210522 04:29:50 INFO root] ServerTick 183229 = 218 [0] [218] [0] [0] (2)
+[20210522 04:29:51 INFO root] ServerTick 183793 = 206 [0] [206] [0] [0] (2)
+[20210522 04:29:52 INFO root] ServerTick 184300 = 225 [0] [225] [0] [0] (2)
+[20210522 04:29:53 INFO root] ServerTick 184804 = 235 [0] [235] [0] [0] (2)
+[20210522 04:29:54 INFO root] ServerTick 185323 = 222 [0] [222] [0] [0] (2)
+[20210522 04:29:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=25
+[20210522 04:29:55 INFO root] STAT2:grid[total=222300,valid=9221,notify=9,active=9179], creature[notify=27, active=15024]
+[20210522 04:29:55 INFO root] ServerTick 185818 = 201 [0] [201] [0] [0] (2)
+[20210522 04:29:56 INFO root] ServerTick 186301 = 210 [0] [210] [0] [0] (2)
+[20210522 04:29:58 INFO root] ServerTick 186793 = 199 [0] [198] [0] [1] (2)
+[20210522 04:29:59 INFO root] ServerTick 187330 = 231 [0] [231] [0] [0] (2)
+[20210522 04:30:00 INFO root] ServerTick 187828 = 222 [0] [222] [0] [0] (2)
+[20210522 04:30:01 INFO root] ServerTick 188350 = 200 [0] [200] [0] [0] (2)
+[20210522 04:30:02 INFO root] ServerTick 188929 = 250 [0] [250] [0] [0] (2)
+[20210522 04:30:03 INFO root] ServerTick 189505 = 234 [0] [197] [0] [37] (2)
+[20210522 04:30:04 INFO root] ServerTick 190078 = 218 [0] [218] [0] [0] (2)
+[20210522 04:30:05 INFO root] ServerTick 190657 = 217 [0] [217] [0] [0] (2)
+[20210522 04:30:06 INFO root] ServerTick 191242 = 231 [0] [231] [0] [0] (2)
+[20210522 04:30:07 INFO root] ServerTick 191824 = 95 [0] [95] [0] [0]
+[20210522 04:30:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=25
+[20210522 04:30:55 INFO root] STAT2:grid[total=222300,valid=9233,notify=9,active=9195], creature[notify=26, active=15025]
+[20210522 04:31:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 04:31:55 INFO root] STAT2:grid[total=222300,valid=9295,notify=9,active=9262], creature[notify=27, active=15025]
+[20210522 04:32:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=25
+[20210522 04:32:55 INFO root] STAT2:grid[total=222300,valid=9294,notify=9,active=9266], creature[notify=26, active=15025]
+[20210522 04:33:03 INFO root] ServerTick 337348 = 214 [0] [214] [0] [0] (2)
+[20210522 04:33:04 INFO root] ServerTick 337933 = 235 [0] [235] [0] [0] (2)
+[20210522 04:33:05 INFO root] ServerTick 338482 = 227 [0] [227] [0] [0] (2)
+[20210522 04:33:06 INFO root] ServerTick 339061 = 240 [0] [240] [0] [0] (2)
+[20210522 04:33:08 INFO root] ServerTick 339640 = 227 [0] [227] [0] [0] (2)
+[20210522 04:33:09 INFO root] ServerTick 340216 = 228 [0] [228] [0] [0] (2)
+[20210522 04:33:10 INFO root] ServerTick 340777 = 234 [0] [234] [0] [0] (2)
+[20210522 04:33:11 INFO root] ServerTick 341359 = 213 [0] [213] [0] [0] (2)
+[20210522 04:33:12 INFO root] ServerTick 341923 = 209 [0] [208] [0] [1] (2)
+[20210522 04:33:13 INFO root] ServerTick 342421 = 234 [0] [234] [0] [0] (2)
+[20210522 04:33:14 INFO root] ServerTick 343018 = 206 [0] [206] [0] [0] (2)
+[20210522 04:33:15 INFO root] ServerTick 343594 = 210 [0] [210] [0] [0] (2)
+[20210522 04:33:16 INFO root] ServerTick 344173 = 231 [0] [231] [0] [0] (2)
+[20210522 04:33:17 INFO root] ServerTick 344716 = 206 [0] [206] [0] [0] (2)
+[20210522 04:33:18 INFO root] ServerTick 345253 = 226 [0] [226] [0] [0] (2)
+[20210522 04:33:19 INFO root] ServerTick 345820 = 238 [0] [238] [0] [0] (2)
+[20210522 04:33:21 INFO root] ServerTick 346396 = 211 [0] [211] [0] [0] (2)
+[20210522 04:33:22 INFO root] ServerTick 346993 = 212 [0] [212] [0] [0] (2)
+[20210522 04:33:23 INFO root] ServerTick 347545 = 196 [0] [196] [0] [0] (2)
+[20210522 04:33:24 INFO root] ServerTick 348091 = 205 [0] [205] [0] [0] (2)
+[20210522 04:33:25 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:25 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:25 INFO root] ServerTick 348604 = 226 [0] [226] [0] [0] (2)
+[20210522 04:33:26 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:26 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:26 INFO root] ServerTick 349147 = 214 [0] [214] [0] [0] (2)
+[20210522 04:33:26 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:26 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:26 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:26 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:26 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:26 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:26 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:26 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:27 INFO root] ServerTick 349663 = 226 [0] [226] [0] [0] (2)
+[20210522 04:33:28 INFO root] ServerTick 350218 = 226 [0] [226] [0] [0] (2)
+[20210522 04:33:29 INFO root] ServerTick 350776 = 240 [0] [240] [0] [0] (2)
+[20210522 04:33:30 INFO root] ServerTick 351256 = 237 [0] [237] [0] [0] (2)
+[20210522 04:33:31 INFO root] ServerTick 351787 = 231 [0] [231] [0] [0] (2)
+[20210522 04:33:32 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:33:33 INFO root] ServerTick 352288 = 197 [0] [197] [0] [0] (2)
+[20210522 04:33:33 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:33:34 INFO root] ServerTick 352873 = 203 [0] [203] [0] [0] (2)
+[20210522 04:33:34 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:33:34 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:34 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:35 INFO root] ServerTick 353353 = 213 [0] [213] [0] [0] (2)
+[20210522 04:33:35 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:35 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:35 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:33:35 ERRO root] [CGsItem::AnalyseCreateString] Count error!(count=6)
+[20210522 04:33:35 ERRO root] [CItemOperator_Svr::UseItem] AnalyseCreateString Error(code=v=1;s=6|i=550;c=2;smL=6;b=2;upL=10|i=560;c=2;smL=6;b=2;upL=10|i=570;c=7;b=2;upL=38|i=571;c=7;b=2;upL=35|i=9202;b=2)!
+[20210522 04:33:36 INFO root] ServerTick 353860 = 212 [0] [212] [0] [0] (2)
+[20210522 04:33:36 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:33:37 INFO root] ServerTick 354424 = 210 [0] [210] [0] [0] (2)
+[20210522 04:33:37 ERRO root] Get Npc Rebirth Data Error, NpcId=[0], area=[], AreaId=[0]
+[20210522 04:33:38 INFO root] ServerTick 354931 = 231 [0] [231] [0] [0] (2)
+[20210522 04:33:39 INFO root] ServerTick 355441 = 222 [0] [222] [0] [0] (2)
+[20210522 04:33:40 INFO root] ServerTick 355897 = 209 [0] [209] [0] [0] (2)
+[20210522 04:33:41 INFO root] ServerTick 356431 = 218 [0] [218] [0] [0] (2)
+[20210522 04:33:42 INFO root] ServerTick 356917 = 285 [0] [285] [0] [0] (2)
+[20210522 04:33:43 INFO root] ServerTick 357427 = 240 [0] [240] [0] [0] (2)
+[20210522 04:33:45 INFO root] ServerTick 357898 = 263 [0] [263] [0] [0] (2)
+[20210522 04:33:46 INFO root] ServerTick 358414 = 214 [0] [214] [0] [0] (2)
+[20210522 04:33:47 INFO root] ServerTick 358960 = 208 [0] [208] [0] [0] (2)
+[20210522 04:33:48 INFO root] ServerTick 359491 = 208 [0] [208] [0] [0] (2)
+[20210522 04:33:49 INFO root] ServerTick 359959 = 238 [0] [238] [0] [0] (2)
+[20210522 04:33:50 INFO root] ServerTick 360466 = 209 [0] [209] [0] [0] (2)
+[20210522 04:33:51 INFO root] ServerTick 361036 = 214 [0] [214] [0] [0] (2)
+[20210522 04:33:52 INFO root] ServerTick 361624 = 234 [0] [234] [0] [0] (2)
+[20210522 04:33:53 INFO root] ServerTick 362128 = 234 [0] [197] [0] [37] (2)
+[20210522 04:33:54 INFO root] ServerTick 362626 = 217 [0] [217] [0] [0] (2)
+[20210522 04:33:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=25
+[20210522 04:33:55 INFO root] STAT2:grid[total=222300,valid=9211,notify=9,active=9174], creature[notify=25, active=15026]
+[20210522 04:33:55 INFO root] ServerTick 363133 = 231 [0] [231] [0] [0] (2)
+[20210522 04:33:56 INFO root] ServerTick 363619 = 210 [0] [210] [0] [0] (2)
+[20210522 04:33:58 INFO root] ServerTick 364117 = 219 [0] [219] [0] [0] (2)
+[20210522 04:33:59 INFO root] ServerTick 364621 = 207 [0] [207] [0] [0] (2)
+[20210522 04:34:00 INFO root] ServerTick 365146 = 207 [0] [207] [0] [0] (2)
+[20210522 04:34:01 INFO root] ServerTick 365734 = 209 [0] [209] [0] [0] (2)
+[20210522 04:34:02 INFO root] ServerTick 366337 = 209 [0] [209] [0] [0] (2)
+[20210522 04:34:03 INFO root] ServerTick 366940 = 239 [0] [239] [0] [0] (2)
+[20210522 04:34:04 INFO root] ServerTick 367522 = 234 [0] [234] [0] [0] (2)
+[20210522 04:34:05 INFO root] ServerTick 368089 = 236 [0] [235] [0] [1] (2)
+[20210522 04:34:06 INFO root] ServerTick 368674 = 234 [0] [234] [0] [0] (2)
+[20210522 04:34:07 INFO root] ServerTick 369247 = 244 [0] [243] [1] [0] (2)
+[20210522 04:34:08 INFO root] ServerTick 369823 = 239 [0] [239] [0] [0] (2)
+[20210522 04:34:09 INFO root] ServerTick 370348 = 219 [0] [219] [0] [0] (2)
+[20210522 04:34:11 INFO root] ServerTick 370927 = 240 [0] [240] [0] [0] (2)
+[20210522 04:34:12 INFO root] ServerTick 371512 = 267 [0] [267] [0] [0] (2)
+[20210522 04:34:13 INFO root] ServerTick 372073 = 226 [0] [226] [0] [0] (2)
+[20210522 04:34:14 INFO root] ServerTick 372565 = 271 [0] [271] [0] [0] (2)
+[20210522 04:34:15 INFO root] ServerTick 373078 = 201 [0] [201] [0] [0] (2)
+[20210522 04:34:16 INFO root] ServerTick 373606 = 206 [0] [206] [0] [0] (2)
+[20210522 04:34:17 INFO root] ServerTick 374197 = 214 [0] [214] [0] [0] (2)
+[20210522 04:34:18 INFO root] ServerTick 374794 = 214 [0] [214] [0] [0] (2)
+[20210522 04:34:19 INFO root] ServerTick 375355 = 238 [0] [238] [0] [0] (2)
+[20210522 04:34:20 INFO root] ServerTick 375934 = 231 [0] [231] [0] [0] (2)
+[20210522 04:34:21 INFO root] ServerTick 376501 = 236 [0] [236] [0] [0] (2)
+[20210522 04:34:23 INFO root] ServerTick 377035 = 220 [0] [220] [0] [0] (2)
+[20210522 04:34:24 INFO root] ServerTick 377620 = 233 [0] [233] [0] [0] (2)
+[20210522 04:34:25 INFO root] ServerTick 378088 = 240 [0] [240] [0] [0] (2)
+[20210522 04:34:26 INFO root] ServerTick 378589 = 221 [0] [221] [0] [0] (2)
+[20210522 04:34:27 INFO root] ServerTick 379066 = 215 [0] [215] [0] [0] (2)
+[20210522 04:34:28 INFO root] ServerTick 379594 = 218 [0] [218] [0] [0] (2)
+[20210522 04:34:29 INFO root] ServerTick 380080 = 226 [0] [226] [0] [0] (2)
+[20210522 04:34:30 INFO root] ServerTick 380596 = 244 [0] [244] [0] [0] (2)
+[20210522 04:34:31 INFO root] ServerTick 381166 = 206 [0] [206] [0] [0] (2)
+[20210522 04:34:32 INFO root] ServerTick 381739 = 210 [0] [210] [0] [0] (2)
+[20210522 04:34:33 INFO root] ServerTick 382282 = 209 [0] [209] [0] [0] (2)
+[20210522 04:34:34 INFO root] ServerTick 382882 = 253 [0] [252] [0] [1] (2)
+[20210522 04:34:36 INFO root] ServerTick 383395 = 203 [0] [203] [0] [0] (2)
+[20210522 04:34:37 INFO root] ServerTick 383926 = 219 [0] [219] [0] [0] (2)
+[20210522 04:34:38 INFO root] ServerTick 384451 = 217 [0] [217] [0] [0] (2)
+[20210522 04:34:39 INFO root] ServerTick 384997 = 217 [0] [217] [0] [0] (2)
+[20210522 04:34:40 INFO root] ServerTick 385495 = 230 [0] [230] [0] [0] (2)
+[20210522 04:34:41 INFO root] ServerTick 386008 = 231 [0] [231] [0] [0] (2)
+[20210522 04:34:42 INFO root] ServerTick 386539 = 218 [0] [218] [0] [0] (2)
+[20210522 04:34:43 INFO root] ServerTick 387043 = 230 [0] [230] [0] [0] (2)
+[20210522 04:34:44 INFO root] ServerTick 387568 = 218 [0] [218] [0] [0] (2)
+[20210522 04:34:45 INFO root] ServerTick 388075 = 236 [0] [236] [0] [0] (2)
+[20210522 04:34:46 INFO root] ServerTick 388567 = 215 [0] [214] [0] [1] (2)
+[20210522 04:34:47 INFO root] ServerTick 389095 = 226 [0] [226] [0] [0] (2)
+[20210522 04:34:49 INFO root] ServerTick 389629 = 245 [0] [245] [0] [0] (2)
+[20210522 04:34:50 INFO root] ServerTick 390133 = 219 [0] [219] [0] [0] (2)
+[20210522 04:34:51 INFO root] ServerTick 390637 = 219 [0] [219] [0] [0] (2)
+[20210522 04:34:52 INFO root] ServerTick 391138 = 217 [0] [217] [0] [0] (2)
+[20210522 04:34:53 INFO root] ServerTick 391714 = 213 [0] [213] [0] [0] (2)
+[20210522 04:34:54 INFO root] ServerTick 392260 = 238 [0] [238] [0] [0] (2)
+[20210522 04:34:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 04:34:55 INFO root] STAT2:grid[total=222300,valid=9199,notify=9,active=9157], creature[notify=27, active=15027]
+[20210522 04:34:55 INFO root] ServerTick 392752 = 239 [0] [239] [0] [0] (2)
+[20210522 04:34:56 INFO root] ServerTick 393247 = 227 [0] [227] [0] [0] (2)
+[20210522 04:34:57 INFO root] ServerTick 393745 = 223 [1] [222] [0] [0] (2)
+[20210522 04:34:58 INFO root] ServerTick 394243 = 214 [0] [214] [0] [0] (2)
+[20210522 04:34:59 INFO root] ServerTick 394783 = 218 [0] [218] [0] [0] (2)
+[20210522 04:35:00 INFO root] ServerTick 395332 = 210 [0] [210] [0] [0] (2)
+[20210522 04:35:02 INFO root] ServerTick 395920 = 237 [0] [237] [0] [0] (2)
+[20210522 04:35:03 INFO root] ServerTick 396511 = 219 [0] [219] [0] [0] (2)
+[20210522 04:35:04 INFO root] ServerTick 397102 = 207 [0] [207] [0] [0] (2)
+[20210522 04:35:05 INFO root] ServerTick 397678 = 236 [0] [236] [0] [0] (2)
+[20210522 04:35:06 INFO root] ServerTick 398260 = 243 [0] [243] [0] [0] (2)
+[20210522 04:35:07 INFO root] ServerTick 398851 = 222 [0] [222] [0] [0] (2)
+[20210522 04:35:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=25
+[20210522 04:35:55 INFO root] STAT2:grid[total=222300,valid=9225,notify=9,active=9188], creature[notify=26, active=15028]
+[20210522 04:36:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15055 timerobj=25
+[20210522 04:36:55 INFO root] STAT2:grid[total=222300,valid=9228,notify=9,active=9203], creature[notify=27, active=15027]
+[20210522 04:37:07 INFO root] ServerTick 498163 = 189 [0] [189] [0] [0] (2)
+[20210522 04:37:08 INFO root] ServerTick 498619 = 235 [0] [235] [0] [0] (2)
+[20210522 04:37:09 INFO root] ServerTick 499198 = 253 [0] [253] [0] [0] (2)
+[20210522 04:37:11 INFO root] ServerTick 499777 = 207 [0] [207] [0] [0] (2)
+[20210522 04:37:12 INFO root] ServerTick 500362 = 207 [0] [207] [0] [0] (2)
+[20210522 04:37:13 INFO root] ServerTick 500917 = 221 [0] [221] [0] [0] (2)
+[20210522 04:37:14 INFO root] ServerTick 501472 = 221 [0] [221] [0] [0] (2)
+[20210522 04:37:15 INFO root] ServerTick 501964 = 219 [0] [219] [0] [0] (2)
+[20210522 04:37:16 INFO root] ServerTick 502495 = 245 [0] [245] [0] [0] (2)
+[20210522 04:37:17 INFO root] ServerTick 502996 = 284 [0] [284] [0] [0] (2)
+[20210522 04:37:18 INFO root] ServerTick 503512 = 223 [0] [223] [0] [0] (2)
+[20210522 04:37:19 INFO root] ServerTick 504037 = 232 [0] [232] [0] [0] (2)
+[20210522 04:37:20 INFO root] ServerTick 504550 = 235 [0] [235] [0] [0] (2)
+[20210522 04:37:21 INFO root] ServerTick 505087 = 202 [0] [202] [0] [0] (2)
+[20210522 04:37:23 INFO root] ServerTick 505585 = 218 [0] [218] [0] [0] (2)
+[20210522 04:37:24 INFO root] ServerTick 506089 = 227 [0] [227] [0] [0] (2)
+[20210522 04:37:25 INFO root] ServerTick 506551 = 206 [0] [206] [0] [0] (2)
+[20210522 04:37:26 INFO root] ServerTick 507088 = 209 [0] [209] [0] [0] (2)
+[20210522 04:37:27 INFO root] ServerTick 507619 = 221 [0] [221] [0] [0] (2)
+[20210522 04:37:28 INFO root] ServerTick 508123 = 223 [0] [223] [0] [0] (2)
+[20210522 04:37:29 INFO root] ServerTick 508615 = 217 [0] [217] [0] [0] (2)
+[20210522 04:37:30 INFO root] ServerTick 509161 = 214 [0] [214] [0] [0] (2)
+[20210522 04:37:31 INFO root] ServerTick 509722 = 205 [0] [205] [0] [0] (2)
+[20210522 04:37:32 INFO root] ServerTick 510280 = 201 [0] [201] [0] [0] (2)
+[20210522 04:37:33 INFO root] ServerTick 510799 = 214 [0] [214] [0] [0] (2)
+[20210522 04:37:34 INFO root] ServerTick 511288 = 236 [0] [236] [0] [0] (2)
+[20210522 04:37:35 INFO root] ServerTick 511807 = 217 [0] [217] [0] [0] (2)
+[20210522 04:37:37 INFO root] ServerTick 512350 = 211 [0] [210] [0] [1] (2)
+[20210522 04:37:38 INFO root] ServerTick 512878 = 230 [0] [230] [0] [0] (2)
+[20210522 04:37:39 INFO root] ServerTick 513403 = 226 [0] [226] [0] [0] (2)
+[20210522 04:37:40 INFO root] ServerTick 513910 = 234 [0] [234] [0] [0] (2)
+[20210522 04:37:41 INFO root] ServerTick 514495 = 234 [0] [234] [0] [0] (2)
+[20210522 04:37:42 INFO root] ServerTick 515065 = 219 [1] [218] [0] [0] (2)
+[20210522 04:37:43 INFO root] ServerTick 515626 = 218 [0] [218] [0] [0] (2)
+[20210522 04:37:44 INFO root] ServerTick 516118 = 239 [0] [239] [0] [0] (2)
+[20210522 04:37:45 INFO root] ServerTick 516601 = 235 [0] [235] [0] [0] (2)
+[20210522 04:37:46 INFO root] ServerTick 517108 = 196 [0] [196] [0] [0] (2)
+[20210522 04:37:47 INFO root] ServerTick 517699 = 235 [0] [235] [0] [0] (2)
+[20210522 04:37:48 INFO root] ServerTick 518233 = 234 [0] [234] [0] [0] (2)
+[20210522 04:37:50 INFO root] ServerTick 518716 = 254 [0] [253] [0] [0] (2)
+[20210522 04:37:51 INFO root] ServerTick 519244 = 206 [0] [206] [0] [0] (2)
+[20210522 04:37:52 INFO root] ServerTick 519784 = 226 [0] [226] [0] [0] (2)
+[20210522 04:37:53 INFO root] ServerTick 520348 = 216 [0] [216] [0] [0] (2)
+[20210522 04:37:54 INFO root] ServerTick 520885 = 209 [0] [209] [0] [0] (2)
+[20210522 04:37:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15056 timerobj=25
+[20210522 04:37:55 INFO root] STAT2:grid[total=222300,valid=9244,notify=9,active=9205], creature[notify=28, active=15026]
+[20210522 04:37:55 INFO root] ServerTick 521389 = 222 [0] [222] [0] [0] (2)
+[20210522 04:37:56 INFO root] ServerTick 521857 = 209 [0] [209] [0] [0] (2)
+[20210522 04:37:57 INFO root] ServerTick 522355 = 222 [0] [222] [0] [0] (2)
+[20210522 04:37:58 INFO root] ServerTick 522877 = 238 [0] [238] [0] [0] (2)
+[20210522 04:37:59 INFO root] ServerTick 523402 = 201 [0] [201] [0] [0] (2)
+[20210522 04:38:00 INFO root] ServerTick 523960 = 226 [0] [226] [0] [0] (2)
+[20210522 04:38:01 INFO root] ServerTick 524542 = 243 [0] [243] [0] [0] (2)
+[20210522 04:38:02 INFO root] ServerTick 525130 = 202 [0] [202] [0] [0] (2)
+[20210522 04:38:04 INFO root] ServerTick 525712 = 231 [0] [231] [0] [0] (2)
+[20210522 04:38:05 INFO root] ServerTick 526291 = 239 [0] [239] [0] [0] (2)
+[20210522 04:38:06 INFO root] ServerTick 526876 = 221 [0] [221] [0] [0] (2)
+[20210522 04:38:07 INFO root] ServerTick 527455 = 201 [0] [201] [0] [0] (2)
+[20210522 04:38:08 INFO root] ServerTick 528019 = 214 [0] [214] [0] [0] (2)
+[20210522 04:38:09 INFO root] ServerTick 528598 = 236 [0] [236] [0] [0] (2)
+[20210522 04:38:10 INFO root] ServerTick 529147 = 230 [0] [230] [0] [0] (2)
+[20210522 04:38:11 INFO root] ServerTick 529702 = 218 [0] [218] [0] [0] (2)
+[20210522 04:38:12 INFO root] ServerTick 530266 = 235 [0] [235] [0] [0] (2)
+[20210522 04:38:13 INFO root] ServerTick 530806 = 235 [0] [235] [0] [0] (2)
+[20210522 04:38:14 INFO root] ServerTick 531400 = 236 [0] [236] [0] [0] (2)
+[20210522 04:38:15 INFO root] ServerTick 531967 = 210 [0] [210] [0] [0] (2)
+[20210522 04:38:17 INFO root] ServerTick 532549 = 236 [0] [236] [0] [0] (2)
+[20210522 04:38:18 INFO root] ServerTick 533107 = 234 [0] [234] [0] [0] (2)
+[20210522 04:38:19 INFO root] ServerTick 533623 = 216 [0] [215] [0] [1] (2)
+[20210522 04:38:20 INFO root] ServerTick 534175 = 217 [0] [217] [0] [0] (2)
+[20210522 04:38:21 INFO root] ServerTick 534766 = 213 [0] [213] [0] [0] (2)
+[20210522 04:38:22 INFO root] ServerTick 535333 = 209 [0] [209] [0] [0] (2)
+[20210522 04:38:23 INFO root] ServerTick 535879 = 214 [0] [214] [0] [0] (2)
+[20210522 04:38:24 INFO root] ServerTick 536416 = 193 [0] [193] [0] [0] (2)
+[20210522 04:38:25 INFO root] ServerTick 536956 = 234 [0] [234] [0] [0] (2)
+[20210522 04:38:26 INFO root] ServerTick 537499 = 223 [0] [223] [0] [0] (2)
+[20210522 04:38:27 INFO root] ServerTick 538063 = 240 [0] [240] [0] [0] (2)
+[20210522 04:38:28 INFO root] ServerTick 538642 = 218 [0] [218] [0] [0] (2)
+[20210522 04:38:29 INFO root] ServerTick 539191 = 237 [0] [237] [0] [0] (2)
+[20210522 04:38:31 INFO root] ServerTick 539755 = 253 [0] [253] [0] [0] (2)
+[20210522 04:38:32 INFO root] ServerTick 540340 = 230 [0] [230] [0] [0] (2)
+[20210522 04:38:33 INFO root] ServerTick 540886 = 209 [0] [209] [0] [0] (2)
+[20210522 04:38:34 INFO root] ServerTick 541450 = 233 [0] [233] [0] [0] (2)
+[20210522 04:38:35 INFO root] ServerTick 541969 = 210 [0] [210] [0] [0] (2)
+[20210522 04:38:36 INFO root] ServerTick 542485 = 222 [0] [222] [0] [0] (2)
+[20210522 04:38:37 INFO root] ServerTick 543031 = 202 [0] [202] [0] [0] (2)
+[20210522 04:38:38 INFO root] ServerTick 543544 = 206 [0] [206] [0] [0] (2)
+[20210522 04:38:39 INFO root] ServerTick 544054 = 205 [0] [204] [1] [0] (2)
+[20210522 04:38:40 INFO root] ServerTick 544615 = 211 [0] [211] [0] [0] (2)
+[20210522 04:38:41 INFO root] ServerTick 545182 = 227 [0] [227] [0] [0] (2)
+[20210522 04:38:42 INFO root] ServerTick 545728 = 197 [0] [197] [0] [0] (2)
+[20210522 04:38:44 INFO root] ServerTick 546226 = 231 [0] [231] [0] [0] (2)
+[20210522 04:38:45 INFO root] ServerTick 546793 = 207 [0] [207] [0] [0] (2)
+[20210522 04:38:46 INFO root] ServerTick 547360 = 200 [0] [200] [0] [0] (2)
+[20210522 04:38:47 INFO root] ServerTick 547918 = 195 [0] [195] [0] [0] (2)
+[20210522 04:38:48 INFO root] ServerTick 548518 = 217 [0] [217] [0] [0] (2)
+[20210522 04:38:49 INFO root] ServerTick 549103 = 197 [0] [197] [0] [0] (2)
+[20210522 04:38:50 INFO root] ServerTick 549694 = 205 [0] [205] [0] [0] (2)
+[20210522 04:38:51 INFO root] ServerTick 550273 = 213 [0] [213] [0] [0] (2)
+[20210522 04:38:52 INFO root] ServerTick 550804 = 239 [0] [239] [0] [0] (2)
+[20210522 04:38:53 INFO root] ServerTick 551350 = 206 [0] [206] [0] [0] (2)
+[20210522 04:38:54 INFO root] ServerTick 551860 = 205 [0] [205] [0] [0] (2)
+[20210522 04:38:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15053 timerobj=25
+[20210522 04:38:55 INFO root] STAT2:grid[total=222300,valid=9241,notify=9,active=9208], creature[notify=29, active=15022]
+[20210522 04:38:55 INFO root] ServerTick 552343 = 235 [0] [235] [0] [0] (2)
+[20210522 04:38:57 INFO root] ServerTick 552856 = 235 [0] [235] [0] [0] (2)
+[20210522 04:38:58 INFO root] ServerTick 553375 = 223 [0] [223] [0] [0] (2)
+[20210522 04:38:59 INFO root] ServerTick 553897 = 215 [0] [215] [0] [0] (2)
+[20210522 04:39:00 INFO root] ServerTick 554443 = 234 [0] [233] [0] [1] (2)
+[20210522 04:39:01 INFO root] ServerTick 555025 = 269 [0] [269] [0] [0] (2)
+[20210522 04:39:02 INFO root] ServerTick 555262 = 331 [0] [331] [0] [0] (2)
+[20210522 04:39:03 INFO root] ServerTick 555478 = 214 [0] [214] [0] [0] (2)
+[20210522 04:39:04 INFO root] ServerTick 556078 = 206 [0] [206] [0] [0] (2)
+[20210522 04:39:05 INFO root] ServerTick 556633 = 231 [0] [231] [0] [0] (2)
+[20210522 04:39:06 INFO root] ServerTick 557212 = 227 [0] [227] [0] [0] (2)
+[20210522 04:39:08 INFO root] ServerTick 557782 = 211 [0] [211] [0] [0] (2)
+[20210522 04:39:09 INFO root] ServerTick 558370 = 207 [0] [207] [0] [0] (2)
+[20210522 04:39:10 INFO root] ServerTick 558940 = 218 [0] [218] [0] [0] (2)
+[20210522 04:39:11 INFO root] ServerTick 559528 = 213 [0] [213] [0] [0] (2)
+[20210522 04:39:12 INFO root] ServerTick 560107 = 217 [0] [216] [0] [1] (2)
+[20210522 04:39:13 INFO root] ServerTick 560671 = 218 [0] [218] [0] [0] (2)
+[20210522 04:39:14 INFO root] ServerTick 561232 = 243 [0] [243] [0] [0] (2)
+[20210522 04:39:15 INFO root] ServerTick 561775 = 230 [0] [230] [0] [0] (2)
+[20210522 04:39:16 INFO root] ServerTick 562351 = 231 [1] [230] [0] [0] (2)
+[20210522 04:39:17 INFO root] ServerTick 562933 = 218 [0] [218] [0] [0] (2)
+[20210522 04:39:18 INFO root] ServerTick 563500 = 206 [0] [206] [0] [0] (2)
+[20210522 04:39:19 INFO root] ServerTick 564034 = 219 [0] [219] [0] [0] (2)
+[20210522 04:39:21 INFO root] ServerTick 564556 = 232 [1] [231] [0] [0] (2)
+[20210522 04:39:22 INFO root] ServerTick 565135 = 240 [0] [240] [0] [0] (2)
+[20210522 04:39:23 INFO root] ServerTick 565726 = 230 [0] [230] [0] [0] (2)
+[20210522 04:39:24 INFO root] ServerTick 566290 = 235 [0] [235] [0] [0] (2)
+[20210522 04:39:25 INFO root] ServerTick 566794 = 217 [1] [216] [0] [0] (2)
+[20210522 04:39:26 INFO root] ServerTick 567313 = 201 [0] [201] [0] [0] (2)
+[20210522 04:39:27 INFO root] ServerTick 567844 = 234 [0] [234] [0] [0] (2)
+[20210522 04:39:28 INFO root] ServerTick 568417 = 210 [0] [210] [0] [0] (2)
+[20210522 04:39:29 INFO root] ServerTick 568918 = 217 [0] [217] [0] [0] (2)
+[20210522 04:39:30 INFO root] ServerTick 569458 = 218 [0] [218] [0] [0] (2)
+[20210522 04:39:31 INFO root] ServerTick 569998 = 210 [0] [210] [0] [0] (2)
+[20210522 04:39:32 INFO root] ServerTick 570550 = 239 [0] [239] [0] [0] (2)
+[20210522 04:39:33 INFO root] ServerTick 571105 = 218 [0] [218] [0] [0] (2)
+[20210522 04:39:35 INFO root] ServerTick 571663 = 257 [0] [257] [0] [0] (2)
+[20210522 04:39:36 INFO root] ServerTick 572218 = 194 [0] [194] [0] [0] (2)
+[20210522 04:39:37 INFO root] ServerTick 572764 = 234 [0] [234] [0] [0] (2)
+[20210522 04:39:38 INFO root] ServerTick 573346 = 217 [0] [217] [0] [0] (2)
+[20210522 04:39:39 INFO root] ServerTick 573925 = 217 [0] [217] [0] [0] (2)
+[20210522 04:39:40 INFO root] ServerTick 574432 = 218 [0] [218] [0] [0] (2)
+[20210522 04:39:41 INFO root] ServerTick 575014 = 205 [0] [205] [0] [0] (2)
+[20210522 04:39:42 INFO root] ServerTick 575518 = 222 [0] [222] [0] [0] (2)
+[20210522 04:39:43 INFO root] ServerTick 576025 = 229 [0] [229] [0] [0] (2)
+[20210522 04:39:44 INFO root] ServerTick 576562 = 235 [0] [235] [0] [0] (2)
+[20210522 04:39:45 INFO root] ServerTick 577054 = 202 [0] [202] [0] [0] (2)
+[20210522 04:39:46 INFO root] ServerTick 577555 = 206 [0] [206] [0] [0] (2)
+[20210522 04:39:47 INFO root] ServerTick 578077 = 197 [0] [197] [0] [0] (2)
+[20210522 04:39:49 INFO root] ServerTick 578605 = 236 [0] [236] [0] [0] (2)
+[20210522 04:39:50 INFO root] ServerTick 579136 = 212 [0] [212] [0] [0] (2)
+[20210522 04:39:51 INFO root] ServerTick 579709 = 201 [0] [201] [0] [0] (2)
+[20210522 04:39:52 INFO root] ServerTick 580237 = 213 [0] [213] [0] [0] (2)
+[20210522 04:39:53 INFO root] ServerTick 580744 = 214 [0] [214] [0] [0] (2)
+[20210522 04:39:53 ALERT root] Game server shutdown by [Nik]. (60s)
+[20210522 04:39:54 INFO root] ServerTick 581287 = 227 [0] [227] [0] [0] (2)
+[20210522 04:39:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 04:39:55 INFO root] STAT2:grid[total=222300,valid=9234,notify=9,active=9200], creature[notify=28, active=15024]
+[20210522 04:39:55 INFO root] ServerTick 581833 = 239 [0] [239] [0] [0] (2)
+[20210522 04:39:56 INFO root] ServerTick 582436 = 275 [0] [275] [0] [0] (2)
+[20210522 04:39:57 INFO root] ServerTick 582994 = 222 [0] [222] [0] [0] (2)
+[20210522 04:39:58 INFO root] ServerTick 583552 = 205 [0] [205] [0] [0] (2)
+[20210522 04:39:59 INFO root] ServerTick 584089 = 257 [0] [257] [0] [0] (2)
+[20210522 04:40:01 INFO root] ServerTick 584668 = 220 [0] [220] [0] [0] (2)
+[20210522 04:40:02 INFO root] ServerTick 585247 = 236 [0] [236] [0] [0] (2)
+[20210522 04:40:03 INFO root] ServerTick 585835 = 230 [0] [230] [0] [0] (2)
+[20210522 04:40:04 INFO root] ServerTick 586417 = 209 [0] [209] [0] [0] (2)
+[20210522 04:40:05 INFO root] ServerTick 586963 = 234 [0] [234] [0] [0] (2)
+[20210522 04:40:06 INFO root] ServerTick 587536 = 236 [0] [236] [0] [0] (2)
+[20210522 04:40:07 INFO root] ServerTick 588076 = 228 [0] [228] [0] [0] (2)
+[20210522 04:40:53 INFO root] ToQuit 50s
+[20210522 04:40:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15054 timerobj=25
+[20210522 04:40:55 INFO root] STAT2:grid[total=222300,valid=9223,notify=9,active=9191], creature[notify=28, active=15024]
+[20210522 04:41:03 INFO root] ToQuit 40s
+[20210522 04:41:13 INFO root] ToQuit 30s
+[20210522 04:41:23 INFO root] ToQuit 20s
+[20210522 04:41:33 INFO root] ServerTick 658759 = 230 [0] [230] [0] [0] (2)
+[20210522 04:41:33 INFO root] ToQuit 10s
+[20210522 04:41:34 INFO root] ServerTick 659335 = 206 [0] [206] [0] [0] (2)
+[20210522 04:41:35 INFO root] ServerTick 659842 = 210 [0] [210] [0] [0] (2)
+[20210522 04:41:36 INFO root] ServerTick 660394 = 223 [0] [223] [0] [0] (2)
+[20210522 04:41:37 INFO root] ServerTick 660940 = 206 [0] [206] [0] [0] (2)
+[20210522 04:41:39 INFO root] ServerTick 661459 = 244 [0] [244] [0] [0] (2)
+[20210522 04:41:40 INFO root] ServerTick 662023 = 205 [0] [205] [0] [0] (2)
+[20210522 04:41:41 INFO root] ServerTick 662605 = 232 [0] [232] [0] [0] (2)
+[20210522 04:41:42 INFO root] ServerTick 663136 = 234 [0] [234] [0] [0] (2)
+[20210522 04:41:43 INFO root] ServerTick 663706 = 210 [0] [210] [0] [0] (2)
+[20210522 04:41:44 INFO root] ServerTick 664270 = 218 [0] [218] [0] [0] (2)
+[20210522 04:41:45 INFO root] ServerTick 664768 = 222 [0] [222] [0] [0] (2)
+[20210522 04:41:46 INFO root] ServerTick 665278 = 206 [0] [206] [0] [0] (2)
+[20210522 04:41:47 INFO root] ServerTick 665791 = 206 [1] [205] [0] [0] (2)
+[20210522 04:41:48 INFO root] ServerTick 666358 = 221 [0] [221] [0] [0] (2)
+[20210522 04:41:49 INFO root] ServerTick 666913 = 256 [0] [256] [0] [0] (2)
+[20210522 04:41:51 INFO root] ServerTick 667507 = 227 [0] [227] [0] [0] (2)
+[20210522 04:41:52 INFO root] ServerTick 668056 = 210 [0] [210] [0] [0] (2)
+[20210522 04:41:53 INFO root] ServerTick 668569 = 197 [0] [197] [0] [0] (2)
+[20210522 04:41:53 INFO root] Quiting ...
+[20210522 04:41:53 INFO root]   Saving user data, Don`t shutdown game server app
+[20210522 04:41:53 INFO root]   Last 2 Second ...
+[20210522 04:41:54 INFO root] ServerTick 669778 = 248 [0] [248] [0] [0] (2)
+[20210522 04:41:55 INFO root] ServerTick 671422 = 210 [1] [209] [0] [0] (2)
+[20210522 04:41:55 INFO root] STAT:user=1 ectype=0,0,0,0 stall=0 dun=0 obj=15058 timerobj=25
+[20210522 04:41:55 INFO root] STAT2:grid[total=222300,valid=9197,notify=9,active=9160], creature[notify=29, active=15027]
+[20210522 04:41:55 INFO root]   Quit ok
+[20210522 04:41:55 INFO root] server exit(0)
+[20210522 04:41:55 INFO root] AI Manger 退出, 15057个AI对象被摧毁
+[20210522 04:41:55 INFO root] Disconnect from the db server.
+[20210522 04:41:59 INFO root] CGameCreature::_RemovePair: InGrid=0
+[20210522 04:42:01 INFO root] object leak 0
+[20210522 04:42:01 INFO root] Disconnect from the db server.
+[20210522 04:42:01 INFO root] Disconnect from the db server.
+[20210522 04:42:01 INFO root] Disconnect from the db server.
+[20210522 04:42:01 ERRO root] Disconnect from the login server. (shutdown)
+[20210522 04:42:01 INFO root] ActorOperate total num = 50, free = 50
+[20210522 04:42:01 INFO root] The free npc node list size is 40000, used buffer count is 2.
+[20210522 04:42:01 INFO root] The free user node list size is 2000, used buffer count is 1.
+[20210522 04:42:01 INFO root] Base exit.
+[20210522 04:42:01 INFO root] script engine shutdown Ok
+[20210522 04:42:01 INFO root] net device exit ok
