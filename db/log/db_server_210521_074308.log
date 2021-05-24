@@ -1,0 +1,34 @@
+[20210521 07:43:08 INFO root] Base initialized.
+[20210521 07:43:08 INFO root] net device startup ok
+[20210521 07:43:08 INFO root] 	FDSetSize       = 1024
+[20210521 07:43:08 INFO root] 	Version         = 110
+[20210521 07:43:08 INFO root] 	SendBufferSize  = 16384
+[20210521 07:43:08 INFO root] 	RecvBufferSize  = 87380
+[20210521 07:43:08 INFO root] 
+>>>>>  DB Server (华企软件 2010 0911 改写编译）<<<<< 
+[20210521 07:43:08 INFO root] 配套登录器下载技术交流群 40488544
+[20210521 07:43:09 INFO root] DB Agent Manager starts listening at (localhost : 9106).
+[20210521 07:43:09 INFO root] DB Server starts successfully.
+[20210521 07:43:09 INFO root] The db agent server enter thread (0xf7107b40).
+[20210521 07:43:09 INFO root] The db agent game (game user) connected to the database successfully.
+[20210521 07:43:26 INFO root] DB server accepts (127.0.0.1 : -30207).
+[20210521 07:43:26 INFO root] The db agent server enter thread (0xf67ffb40).
+[20210521 07:43:26 INFO root] The db agent login (login server) connected to the database successfully.
+[20210521 07:43:55 INFO root] DB server accepts (18.117.3.123 : -21242).
+[20210521 07:43:55 INFO root] The db agent server enter thread (0xf5dffb40).
+[20210521 07:43:55 INFO root] DB server accepts (18.117.3.123 : -25961).
+[20210521 07:43:55 INFO root] The db agent game (game system) connected to the database successfully.
+[20210521 07:43:55 INFO root] The db agent server enter thread (0xf55feb40).
+[20210521 07:43:55 INFO root] DB server accepts (18.117.3.123 : -19543).
+[20210521 07:43:55 INFO root] The db agent game (game actor) connected to the database successfully.
+[20210521 07:43:55 INFO root] The db agent server enter thread (0xf4dfdb40).
+[20210521 07:43:55 INFO root] The db agent log (game log) connected to the database successfully.
+[20210521 07:44:17 INFO root] DB server accepts (18.117.3.123 : -27240).
+[20210521 07:44:17 INFO root] The db agent server enter thread (0xf45fcb40).
+[20210521 07:44:17 INFO root] The db agent game (game rank) connected to the database successfully.
+[20210521 07:44:40 ERRO root] [DB] DB_MYSQL_ENGINE_PROCESS_ERROR at line 1241 in (0x0xf5e10820)->unsupported(), 1146, "Table 'gacc2.h_hqrjacc' doesn't exist", "SELECT jf1,jf2,jf3,jf4,jf5,jf6 from gacc2.h_hqrjacc where huaqiacid=3".
+[20210521 07:44:40 ERRO root] LOG_PROCESS_ERROR(nRetCode) at line 1209 in unsupported.
+[20210521 07:44:59 ERRO root] [DB] DB_MYSQL_ENGINE_PROCESS_ERROR at line 1241 in (0x0xf5e10820)->unsupported(), 1146, "Table 'gacc2.h_hqrjacc' doesn't exist", "SELECT jf1,jf2,jf3,jf4,jf5,jf6 from gacc2.h_hqrjacc where huaqiacid=3".
+[20210521 07:44:59 ERRO root] LOG_PROCESS_ERROR(nRetCode) at line 1209 in unsupported.
+[20210521 09:06:02 ERRO root] [DB] DB_MYSQL_ENGINE_PROCESS_ERROR at line 1241 in (0x0xf5e10820)->unsupported(), 1146, "Table 'gacc2.h_hqrjacc' doesn't exist", "SELECT jf1,jf2,jf3,jf4,jf5,jf6 from gacc2.h_hqrjacc where huaqiacid=4".
+[20210521 09:06:02 ERRO root] LOG_PROCESS_ERROR(nRetCode) at line 1209 in unsupported.

@@ -1,0 +1,13 @@
+[20210521 07:41:39 INFO root] Base initialized.
+[20210521 07:41:39 INFO root] net device startup ok
+[20210521 07:41:39 INFO root] 	FDSetSize       = 1024
+[20210521 07:41:39 INFO root] 	Version         = 110
+[20210521 07:41:39 INFO root] 	SendBufferSize  = 16384
+[20210521 07:41:39 INFO root] 	RecvBufferSize  = 87380
+[20210521 07:41:39 INFO root] 
+>>>>>  DB Server (华企软件 2010 0911 改写编译）<<<<< 
+[20210521 07:41:39 INFO root] 配套登录器下载技术交流群 40488544
+[20210521 07:41:39 ERRO root] EvNet: bind socket error, IP=localhost, Port=9106
+[20210521 07:41:39 INFO root] DB Agent Manager can not listen at (localhost : 9106).
+[20210521 07:41:39 INFO root] Base exit.
+[20210521 07:41:39 INFO root] net device exit ok

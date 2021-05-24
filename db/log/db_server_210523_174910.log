@@ -1,0 +1,214 @@
+[20210523 17:49:10 INFO root] Base initialized.
+[20210523 17:49:10 INFO root] net device startup ok
+[20210523 17:49:10 INFO root] 	FDSetSize       = 1024
+[20210523 17:49:10 INFO root] 	Version         = 110
+[20210523 17:49:10 INFO root] 	SendBufferSize  = 16384
+[20210523 17:49:10 INFO root] 	RecvBufferSize  = 87380
+[20210523 17:49:10 INFO root] 
+>>>>>  DB Server (华企软件 2010 0911 改写编译）<<<<< 
+[20210523 17:49:10 INFO root] 配套登录器下载技术交流群 40488544
+[20210523 17:49:16 INFO root] DB Agent Manager starts listening at (localhost : 9106).
+[20210523 17:49:16 INFO root] DB Server starts successfully.
+[20210523 17:49:16 INFO root] The db agent server enter thread (0xf70aeb40).
+[20210523 17:49:16 INFO root] The db agent game (game user) connected to the database successfully.
+[20210523 17:49:41 INFO root] DB server accepts (127.0.0.1 : -24545).
+[20210523 17:49:41 INFO root] The db agent server enter thread (0xf66ffb40).
+[20210523 17:49:41 INFO root] The db agent login (login server) connected to the database successfully.
+[20210523 17:50:23 INFO root] DB server accepts (18.117.3.123 : -31769).
+[20210523 17:50:23 INFO root] The db agent server enter thread (0xf5cffb40).
+[20210523 17:50:23 INFO root] The db agent game (game system) connected to the database successfully.
+[20210523 17:50:23 INFO root] DB server accepts (18.117.3.123 : -23669).
+[20210523 17:50:23 INFO root] DB server accepts (18.117.3.123 : -30172).
+[20210523 17:50:23 INFO root] The db agent server enter thread (0xf54feb40).
+[20210523 17:50:23 INFO root] The db agent server enter thread (0xf4cfdb40).
+[20210523 17:50:23 INFO root] The db agent game (game actor) connected to the database successfully.
+[20210523 17:50:23 INFO root] The db agent log (game log) connected to the database successfully.
+[20210523 17:53:23 INFO root] The db agent game system information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 17:53:23 INFO root] The db agent server (game system) exit thread (0xf5cffb40).
+[20210523 17:53:23 INFO root] DB server disconnect (18.117.3.123 : -31769) because unknown.
+[20210523 17:53:23 INFO root] The db agent game actor information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 17:53:23 INFO root] The db agent server (game actor) exit thread (0xf54feb40).
+[20210523 17:53:23 INFO root] DB server disconnect (18.117.3.123 : -23669) because unknown.
+[20210523 17:53:23 INFO root] The db agent game log information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 17:53:23 INFO root] The db agent server (game log) exit thread (0xf4cfdb40).
+[20210523 17:53:23 INFO root] DB server disconnect (18.117.3.123 : -30172) because unknown.
+[20210523 17:54:52 INFO root] DB server accepts (18.117.3.123 : -23715).
+[20210523 17:54:52 INFO root] The db agent server enter thread (0xf4cfdb40).
+[20210523 17:54:52 INFO root] DB server accepts (18.117.3.123 : -20545).
+[20210523 17:54:52 INFO root] DB server accepts (18.117.3.123 : -20746).
+[20210523 17:54:52 INFO root] The db agent server enter thread (0xf54feb40).
+[20210523 17:54:52 INFO root] The db agent server enter thread (0xf5cffb40).
+[20210523 17:54:52 INFO root] The db agent log (game log) connected to the database successfully.
+[20210523 17:54:52 INFO root] The db agent game (game system) connected to the database successfully.
+[20210523 17:54:52 INFO root] The db agent game (game actor) connected to the database successfully.
+[20210523 17:57:52 INFO root] The db agent game system information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 17:57:52 INFO root] The db agent server (game system) exit thread (0xf4cfdb40).
+[20210523 17:57:52 INFO root] DB server disconnect (18.117.3.123 : -23715) because unknown.
+[20210523 17:57:52 INFO root] The db agent game actor information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 17:57:52 INFO root] The db agent server (game actor) exit thread (0xf54feb40).
+[20210523 17:57:52 INFO root] DB server disconnect (18.117.3.123 : -20545) because unknown.
+[20210523 17:57:52 INFO root] The db agent game log information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 17:57:52 INFO root] The db agent server (game log) exit thread (0xf5cffb40).
+[20210523 17:57:52 INFO root] DB server disconnect (18.117.3.123 : -20746) because unknown.
+[20210523 18:01:39 INFO root] DB server accepts (18.117.3.123 : -22362).
+[20210523 18:01:39 INFO root] The db agent server enter thread (0xf5cffb40).
+[20210523 18:01:39 INFO root] DB server accepts (18.117.3.123 : -30861).
+[20210523 18:01:39 INFO root] DB server accepts (18.117.3.123 : -29533).
+[20210523 18:01:39 INFO root] The db agent server enter thread (0xf54feb40).
+[20210523 18:01:39 INFO root] The db agent server enter thread (0xf4cfdb40).
+[20210523 18:01:39 INFO root] The db agent game (game system) connected to the database successfully.
+[20210523 18:01:39 INFO root] The db agent log (game log) connected to the database successfully.
+[20210523 18:01:39 INFO root] The db agent game (game actor) connected to the database successfully.
+[20210523 18:04:39 INFO root] The db agent game system information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 18:04:39 INFO root] The db agent server (game system) exit thread (0xf5cffb40).
+[20210523 18:04:39 INFO root] DB server disconnect (18.117.3.123 : -22362) because unknown.
+[20210523 18:04:39 INFO root] The db agent game actor information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 18:04:39 INFO root] The db agent server (game actor) exit thread (0xf54feb40).
+[20210523 18:04:39 INFO root] DB server disconnect (18.117.3.123 : -30861) because unknown.
+[20210523 18:04:39 INFO root] The db agent game log information:
+Total elapsed time(s) 180
+Create table command count 0
+One create table command costs time(ms) 0
+Create table command rate(per s) 0
+Insert command count 0
+One insert command costs time(ms) 0
+Insert command rate(per s) 0
+Update command count 0
+One update command costs time(ms) 0
+Update command rate(per s) 0
+Delete command count 0
+One delete command costs time(ms) 0
+Delete command rate(per s) 0
+Select command count 0
+One select command costs time(ms) 0
+Select command rate(per s) 0
+[20210523 18:04:39 INFO root] The db agent server (game log) exit thread (0xf4cfdb40).
+[20210523 18:04:39 INFO root] DB server disconnect (18.117.3.123 : -29533) because unknown.

@@ -1,0 +1,806 @@
+[20210520 16:21:54 INFO root] Base initialized.
+[20210520 16:21:54 INFO root] net device startup ok
+[20210520 16:21:54 INFO root] 	FDSetSize       = 1024
+[20210520 16:21:54 INFO root] 	Version         = 110
+[20210520 16:21:54 INFO root] 	SendBufferSize  = 16384
+[20210520 16:21:54 INFO root] 	RecvBufferSize  = 87380
+[20210520 16:21:54 ERRO root] no sn 1.
+[20210520 16:21:54 INFO root] --- Login Server Init ---------
+[20210520 16:21:54 INFO root] Connected to the db server successfully.
+[20210520 16:21:54 INFO root]   Listen List  : 0.0.0.0.8888
+[20210520 16:21:54 INFO root]   Listen Server: localhost.9102
+[20210520 16:21:54 INFO root]   Listen User  : 0.0.0.0.8884
+[20210520 16:21:54 INFO root] login server init OK
+[20210520 16:22:13 INFO root] Register GameServer Supernova [Classic](0), linux at 0.0.0.0.7002
+[20210520 16:22:13 INFO root]     Data MD5 [bf99465512eb464a39d9b283802ac3fa]
+[20210520 16:22:13 INFO root]     Bin  MD5 [e071eadbc679eec481ea6b3482d83ca1]
+[20210520 16:22:13 INFO root]     Gws  IDX [1]
+[20210520 16:22:13 INFO root]     Sort IDX [1]
+[20210520 16:22:13 INFO root]     List pv  [0]
+[20210520 16:22:13 INFO root]     Location [18.117.3.123]
+[20210520 16:22:13 INFO root]     ShowName [Supernova [Classic]]
+[20210520 16:22:13 INFO root] Game server 'Supernova [Classic]'(UID=1) online. -- NEW --
+[20210520 16:22:19 INFO root] Game server [Supernova [Classic]] ready.
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:37:33 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:39:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:42:05 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:42 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:51 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:55 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:47:57 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:48:23 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:48:27 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:48:32 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:12 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:49:21 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:51:45 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:51:51 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 16:52:00 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 18:35:10 ERRO root] EvNet: net packet bit size error (21573)
+[20210520 18:35:10 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210520 20:35:46 ERRO root] EvNet: net packet bit size error (21573)
+[20210520 20:35:46 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210520 21:47:15 ERRO root] EvNet: net packet flag error
+[20210520 21:47:15 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:06 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:19 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:24 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:24 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210520 23:47:30 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:12:44 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:17:00 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:17:04 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:17:04 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 00:17:09 INFO root] CAccountMgr::OnActorLevelup: actor DBID error
+[20210521 02:18:40 INFO root] server tick time = 80 [80] [0]
+[20210521 02:18:40 INFO root] CLoginServer::Run: Tick = 123 > 100
+[20210521 02:18:57 INFO root] server tick time = 77 [77] [0]
+[20210521 02:34:00 INFO root] server tick time = 81 [81] [0]
+[20210521 02:34:20 INFO root] server tick time = 76 [76] [0]
+[20210521 02:39:23 INFO root] server tick time = 72 [72] [0]
+[20210521 02:41:53 INFO root] server tick time = 82 [82] [0]
+[20210521 02:42:26 INFO root] server tick time = 75 [75] [0]
+[20210521 02:44:15 INFO root] server tick time = 77 [77] [0]
+[20210521 02:44:24 INFO root] server tick time = 89 [89] [0]
+[20210521 02:48:52 INFO root] server tick time = 87 [87] [0]
+[20210521 02:51:53 INFO root] CLoginServer::Run: Tick = 117 > 100
+[20210521 02:51:57 INFO root] CLoginServer::Run: Tick = 114 > 100
+[20210521 02:51:58 INFO root] CLoginServer::Run: Tick = 120 > 100
+[20210521 02:51:58 INFO root] CLoginServer::Run: Tick = 119 > 100
+[20210521 02:51:59 INFO root] CLoginServer::Run: Tick = 117 > 100
+[20210521 02:52:00 INFO root] server tick time = 115 [115] [0]
+[20210521 02:52:00 INFO root] CLoginServer::Run: Tick = 116 > 100
+[20210521 02:52:08 INFO root] server tick time = 77 [77] [0]
+[20210521 02:52:08 INFO root] CLoginServer::Run: Tick = 237 > 100
+[20210521 02:52:08 INFO root] CLoginServer::Run: Tick = 116 > 100
+[20210521 02:52:09 INFO root] CLoginServer::Run: Tick = 117 > 100
+[20210521 02:52:09 INFO root] CLoginServer::Run: Tick = 281 > 100
+[20210521 02:52:10 INFO root] server tick time = 282 [282] [0]
+[20210521 02:52:12 INFO root] CLoginServer::Run: Tick = 2190 > 100
+[20210521 02:52:13 INFO root] server tick time = 158 [158] [0]
+[20210521 02:52:15 INFO root] CLoginServer::Run: Tick = 3447 > 100
+[20210521 02:52:17 INFO root] server tick time = 320 [320] [0]
+[20210521 02:52:19 INFO root] CLoginServer::Run: Tick = 3598 > 100
+[20210521 02:52:20 INFO root] server tick time = 194 [194] [0]
+[20210521 02:52:21 INFO root] CLoginServer::Run: Tick = 2800 > 100
+[20210521 02:52:23 INFO root] server tick time = 110 [110] [0]
+[20210521 02:52:25 INFO root] CLoginServer::Run: Tick = 3648 > 100
+[20210521 02:52:27 INFO root] server tick time = 281 [281] [0]
+[20210521 02:52:28 INFO root] CLoginServer::Run: Tick = 3384 > 100
+[20210521 02:52:30 INFO root] server tick time = 425 [425] [0]
+[20210521 02:52:31 INFO root] CLoginServer::Run: Tick = 2573 > 100
+[20210521 02:52:33 INFO root] server tick time = 482 [482] [0]
+[20210521 02:52:35 INFO root] CLoginServer::Run: Tick = 3935 > 100
+[20210521 02:52:35 INFO root] CLoginServer::Run: Tick = 398 > 100
+[20210521 02:52:35 INFO root] CLoginServer::Run: Tick = 241 > 100
+[20210521 02:52:36 INFO root] server tick time = 315 [315] [0]
+[20210521 02:52:38 INFO root] CLoginServer::Run: Tick = 954 > 100
+[20210521 02:52:39 INFO root] server tick time = 198 [198] [0]
+[20210521 02:52:41 INFO root] CLoginServer::Run: Tick = 4244 > 100
+[20210521 02:52:42 INFO root] CLoginServer::Run: Tick = 481 > 100
+[20210521 02:52:44 INFO root] server tick time = 283 [283] [0]
+[20210521 02:52:45 INFO root] CLoginServer::Run: Tick = 3723 > 100
+[20210521 02:52:47 INFO root] server tick time = 240 [240] [0]
+[20210521 02:52:48 INFO root] CLoginServer::Run: Tick = 3031 > 100
+[20210521 02:52:48 INFO root] CLoginServer::Run: Tick = 124 > 100
+[20210521 02:52:49 INFO root] server tick time = 81 [81] [0]
+[20210521 02:52:49 INFO root] CLoginServer::Run: Tick = 598 > 100
+[20210521 02:52:50 INFO root] server tick time = 156 [156] [0]
+[20210521 02:52:51 INFO root] CLoginServer::Run: Tick = 1148 > 100
+[20210521 02:52:52 INFO root] server tick time = 273 [273] [0]
+[20210521 02:52:54 INFO root] CLoginServer::Run: Tick = 3041 > 100
+[20210521 02:52:56 INFO root] server tick time = 519 [519] [0]
+[20210521 02:52:57 INFO root] CLoginServer::Run: Tick = 2692 > 100
+[20210521 02:52:58 INFO root] server tick time = 193 [193] [0]
+[20210521 02:52:58 INFO root] CLoginServer::Run: Tick = 1635 > 100
+[20210521 02:52:59 INFO root] server tick time = 118 [118] [0]
+[20210521 02:53:00 INFO root] CLoginServer::Run: Tick = 1790 > 100
+[20210521 02:53:01 INFO root] server tick time = 80 [80] [0]
+[20210521 02:53:02 INFO root] CLoginServer::Run: Tick = 2414 > 100
+[20210521 02:53:04 INFO root] server tick time = 283 [283] [0]
+[20210521 02:53:05 INFO root] CLoginServer::Run: Tick = 2108 > 100
+[20210521 02:53:07 INFO root] server tick time = 161 [161] [0]
+[20210521 02:53:09 INFO root] CLoginServer::Run: Tick = 4707 > 100
+[20210521 02:53:11 INFO root] server tick time = 80 [80] [0]
+[20210521 02:53:11 INFO root] CLoginServer::Run: Tick = 2440 > 100
+[20210521 02:53:12 INFO root] CLoginServer::Run: Tick = 117 > 100
+[20210521 02:53:14 INFO root] server tick time = 160 [160] [0]
+[20210521 02:53:15 INFO root] CLoginServer::Run: Tick = 2917 > 100
+[20210521 02:53:16 INFO root] server tick time = 121 [121] [0]
+[20210521 02:53:18 INFO root] CLoginServer::Run: Tick = 3184 > 100
+[20210521 02:53:19 INFO root] CLoginServer::Run: Tick = 1042 > 100
+[20210521 02:53:19 INFO root] CLoginServer::Run: Tick = 160 > 100
+[20210521 02:53:20 INFO root] CLoginServer::Run: Tick = 117 > 100
+[20210521 02:53:21 INFO root] server tick time = 354 [354] [0]
+[20210521 02:53:23 INFO root] CLoginServer::Run: Tick = 3602 > 100
+[20210521 02:53:25 INFO root] server tick time = 393 [393] [0]
+[20210521 02:53:27 INFO root] CLoginServer::Run: Tick = 3720 > 100
+[20210521 02:53:28 INFO root] server tick time = 120 [120] [0]
+[20210521 02:53:30 INFO root] CLoginServer::Run: Tick = 3197 > 100
+[20210521 02:53:32 INFO root] server tick time = 399 [399] [0]
+[20210521 02:53:33 INFO root] CLoginServer::Run: Tick = 3182 > 100
+[20210521 02:53:36 INFO root] CLoginServer::Run: Tick = 2404 > 100
+[20210521 02:53:36 INFO root] server tick time = 119 [119] [0]
+[20210521 02:53:38 INFO root] CLoginServer::Run: Tick = 2230 > 100
+[20210521 02:53:40 INFO root] server tick time = 515 [515] [0]
+[20210521 02:53:41 INFO root] CLoginServer::Run: Tick = 2833 > 100
+[20210521 02:53:43 INFO root] server tick time = 120 [120] [0]
+[20210521 02:53:45 INFO root] CLoginServer::Run: Tick = 4256 > 100
+[20210521 02:53:47 INFO root] server tick time = 241 [241] [0]
+[20210521 02:53:48 INFO root] CLoginServer::Run: Tick = 3081 > 100
+[20210521 02:53:50 INFO root] server tick time = 162 [162] [0]
+[20210521 02:53:53 INFO root] CLoginServer::Run: Tick = 4822 > 100
+[20210521 02:53:56 INFO root] server tick time = 518 [518] [0]
+[20210521 02:53:57 INFO root] CLoginServer::Run: Tick = 4100 > 100
+[20210521 02:53:59 INFO root] server tick time = 479 [479] [0]
+[20210521 02:54:01 INFO root] CLoginServer::Run: Tick = 4451 > 100
+[20210521 02:54:04 INFO root] server tick time = 322 [322] [0]
+[20210521 02:54:06 INFO root] CLoginServer::Run: Tick = 4194 > 100
+[20210521 02:54:08 INFO root] server tick time = 120 [120] [0]
+[20210521 02:54:10 INFO root] CLoginServer::Run: Tick = 3803 > 100
+[20210521 02:54:12 INFO root] server tick time = 240 [240] [0]
+[20210521 02:54:15 INFO root] CLoginServer::Run: Tick = 4835 > 100
+[20210521 02:54:17 INFO root] server tick time = 522 [522] [0]
+[20210521 02:54:19 INFO root] CLoginServer::Run: Tick = 4692 > 100
+[20210521 02:54:22 INFO root] server tick time = 80 [80] [0]
+[20210521 02:54:24 INFO root] CLoginServer::Run: Tick = 5278 > 100
+[20210521 02:54:27 INFO root] server tick time = 717 [717] [0]
+[20210521 02:54:29 INFO root] CLoginServer::Run: Tick = 5218 > 100
+[20210521 02:54:30 INFO root] server tick time = 158 [158] [0]
+[20210521 02:54:32 INFO root] CLoginServer::Run: Tick = 2781 > 100
+[20210521 02:54:35 INFO root] server tick time = 120 [120] [0]
+[20210521 02:54:36 INFO root] CLoginServer::Run: Tick = 3565 > 100
+[20210521 02:54:39 INFO root] server tick time = 158 [158] [0]
+[20210521 02:54:41 INFO root] CLoginServer::Run: Tick = 5494 > 100
+[20210521 02:54:44 INFO root] server tick time = 160 [160] [0]
+[20210521 02:54:45 INFO root] CLoginServer::Run: Tick = 4187 > 100
+[20210521 02:54:48 INFO root] server tick time = 1001 [1001] [0]
+[20210521 02:54:50 INFO root] CLoginServer::Run: Tick = 4192 > 100
+[20210521 02:54:52 INFO root] server tick time = 119 [119] [0]
+[20210521 02:54:53 INFO root] CLoginServer::Run: Tick = 3222 > 100
+[20210521 02:54:53 INFO root] server tick time = 120 [120] [0]
+[20210521 02:54:53 INFO root] CLoginServer::Run: Tick = 200 > 100
+[20210521 02:54:53 INFO root] CLoginServer::Run: Tick = 120 > 100
+[20210521 02:54:55 INFO root] server tick time = 442 [442] [0]
+[20210521 02:54:57 INFO root] CLoginServer::Run: Tick = 3589 > 100
+[20210521 02:54:58 INFO root] server tick time = 398 [398] [0]
+[20210521 02:54:59 INFO root] CLoginServer::Run: Tick = 2478 > 100
+[20210521 02:55:00 INFO root] server tick time = 315 [315] [0]
+[20210521 02:55:03 INFO root] CLoginServer::Run: Tick = 3227 > 100
+[20210521 02:55:05 INFO root] server tick time = 597 [597] [0]
+[20210521 02:55:07 INFO root] CLoginServer::Run: Tick = 4314 > 100
+[20210521 02:55:10 INFO root] server tick time = 242 [242] [0]
+[20210521 02:55:11 INFO root] CLoginServer::Run: Tick = 4481 > 100
+[20210521 02:55:13 INFO root] server tick time = 281 [281] [0]
+[20210521 02:55:14 INFO root] CLoginServer::Run: Tick = 2405 > 100
+[20210521 02:55:15 INFO root] server tick time = 117 [117] [0]
+[20210521 02:55:17 INFO root] CLoginServer::Run: Tick = 2960 > 100
+[20210521 02:55:19 INFO root] server tick time = 403 [403] [0]
+[20210521 02:55:20 INFO root] CLoginServer::Run: Tick = 3245 > 100
+[20210521 02:55:22 INFO root] server tick time = 80 [80] [0]
+[20210521 02:55:24 INFO root] CLoginServer::Run: Tick = 3879 > 100
+[20210521 02:55:25 INFO root] server tick time = 282 [282] [0]
+[20210521 02:55:27 INFO root] CLoginServer::Run: Tick = 3464 > 100
+[20210521 02:55:29 INFO root] server tick time = 399 [399] [0]
+[20210521 02:55:30 INFO root] CLoginServer::Run: Tick = 2687 > 100
+[20210521 02:55:32 INFO root] server tick time = 117 [117] [0]
+[20210521 02:55:33 INFO root] CLoginServer::Run: Tick = 3345 > 100
+[20210521 02:55:36 INFO root] server tick time = 76 [76] [0]
+[20210521 02:55:38 INFO root] CLoginServer::Run: Tick = 4327 > 100
+[20210521 02:55:40 INFO root] server tick time = 319 [319] [0]
+[20210521 02:55:43 INFO root] CLoginServer::Run: Tick = 5109 > 100
+[20210521 02:55:45 INFO root] server tick time = 157 [157] [0]
+[20210521 02:55:45 INFO root] CLoginServer::Run: Tick = 2876 > 100
+[20210521 02:55:46 INFO root] server tick time = 80 [80] [0]
+[20210521 02:55:48 INFO root] CLoginServer::Run: Tick = 2713 > 100
+[20210521 02:55:50 INFO root] server tick time = 439 [439] [0]
+[20210521 02:55:52 INFO root] CLoginServer::Run: Tick = 4069 > 100
+[20210521 02:55:54 INFO root] server tick time = 79 [79] [0]
+[20210521 02:55:56 INFO root] CLoginServer::Run: Tick = 3230 > 100
+[20210521 02:55:57 INFO root] server tick time = 601 [601] [0]
+[20210521 02:55:58 INFO root] CLoginServer::Run: Tick = 2399 > 100
+[20210521 02:55:59 INFO root] CLoginServer::Run: Tick = 641 > 100
+[20210521 02:56:00 INFO root] server tick time = 234 [234] [0]
+[20210521 02:56:02 INFO root] CLoginServer::Run: Tick = 2514 > 100
+[20210521 02:56:05 ERRO root] CSessionServer::OnDisconnect (server type=1, err=0)
+[20210521 02:56:08 INFO root] Game server 'Supernova [Classic]'(UID=1) offline.
+[20210521 02:56:09 INFO root] UnregisterGameServer Quitting 'Supernova [Classic](1)' all user
+[20210521 02:56:10 INFO root] server tick time = 5635 [5635] [0]
+[20210521 02:56:12 INFO root] CLoginServer::Run: Tick = 10123 > 100
+[20210521 02:56:15 INFO root] server tick time = 200 [200] [0]
+[20210521 02:56:16 INFO root] CLoginServer::Run: Tick = 4147 > 100
+[20210521 02:56:19 INFO root] server tick time = 364 [364] [0]
+[20210521 02:56:21 INFO root] CLoginServer::Run: Tick = 4656 > 100
+[20210521 02:56:22 INFO root] server tick time = 117 [117] [0]
+[20210521 02:56:24 INFO root] CLoginServer::Run: Tick = 3356 > 100
+[20210521 02:56:27 INFO root] server tick time = 723 [723] [0]
+[20210521 02:56:28 INFO root] CLoginServer::Run: Tick = 3904 > 100
+[20210521 02:56:29 INFO root] server tick time = 116 [116] [0]
+[20210521 02:56:31 INFO root] CLoginServer::Run: Tick = 2276 > 100
+[20210521 02:56:33 INFO root] server tick time = 75 [75] [0]
+[20210521 02:56:35 INFO root] CLoginServer::Run: Tick = 4436 > 100
+[20210521 02:56:37 INFO root] server tick time = 239 [239] [0]
+[20210521 02:56:39 INFO root] CLoginServer::Run: Tick = 3700 > 100
+[20210521 02:56:40 INFO root] server tick time = 200 [200] [0]
+[20210521 02:56:42 INFO root] CLoginServer::Run: Tick = 3241 > 100
+[20210521 02:56:43 INFO root] server tick time = 80 [80] [0]
+[20210521 02:56:44 INFO root] CLoginServer::Run: Tick = 2070 > 100
+[20210521 02:56:45 INFO root] server tick time = 159 [159] [0]
+[20210521 02:56:46 INFO root] CLoginServer::Run: Tick = 2324 > 100
+[20210521 02:56:48 INFO root] server tick time = 159 [159] [0]
+[20210521 02:56:50 INFO root] CLoginServer::Run: Tick = 3481 > 100
+[20210521 02:56:52 INFO root] server tick time = 201 [201] [0]
+[20210521 02:56:54 INFO root] CLoginServer::Run: Tick = 4162 > 100
+[20210521 02:56:55 INFO root] server tick time = 118 [118] [0]
+[20210521 02:56:57 INFO root] CLoginServer::Run: Tick = 3098 > 100
+[20210521 02:56:59 INFO root] server tick time = 278 [278] [0]
+[20210521 02:57:02 INFO root] CLoginServer::Run: Tick = 4379 > 100
+[20210521 02:57:03 INFO root] CLoginServer::Run: Tick = 2118 > 100
+[20210521 02:57:06 INFO root] server tick time = 239 [239] [0]
+[20210521 02:57:07 INFO root] CLoginServer::Run: Tick = 3925 > 100
+[20210521 02:57:10 INFO root] server tick time = 161 [161] [0]
+[20210521 02:57:12 INFO root] CLoginServer::Run: Tick = 4723 > 100
+[20210521 02:57:14 INFO root] server tick time = 279 [279] [0]
+[20210521 02:57:16 INFO root] CLoginServer::Run: Tick = 4320 > 100
+[20210521 02:57:19 INFO root] server tick time = 204 [204] [0]
+[20210521 02:57:22 INFO root] CLoginServer::Run: Tick = 5011 > 100
+[20210521 02:57:23 INFO root] server tick time = 80 [80] [0]
+[20210521 02:57:25 INFO root] CLoginServer::Run: Tick = 3204 > 100
+[20210521 02:57:28 INFO root] server tick time = 521 [521] [0]
+[20210521 02:57:30 INFO root] CLoginServer::Run: Tick = 4921 > 100
+[20210521 02:57:32 INFO root] server tick time = 441 [440] [0]
+[20210521 02:57:36 INFO root] CLoginServer::Run: Tick = 6268 > 100
+[20210521 02:57:36 INFO root] server tick time = 237 [237] [0]
+[20210521 02:57:36 INFO root] CLoginServer::Run: Tick = 278 > 100
+[20210521 04:15:10 ERRO root] EvNet: net packet bit size error (21573)
+[20210521 04:15:10 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210521 05:43:57 ERRO root] EvNet: net packet flag error
+[20210521 05:43:57 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210521 05:44:07 ERRO root] EvNet: net packet flag error
+[20210521 05:44:07 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210521 05:44:07 ERRO root] EvNet: net packet flag error
+[20210521 05:44:07 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210521 05:54:31 ERRO root] EvNet: net packet bit size error (21573)
+[20210521 05:54:31 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210521 05:54:31 ERRO root] EvNet: net packet bit size error (21573)
+[20210521 05:54:31 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)
+[20210521 05:54:31 ERRO root] EvNet: net packet bit size error (21573)
+[20210521 05:54:31 ERRO root] EvNet: (RecvPacket) begin read packet failed (-1)

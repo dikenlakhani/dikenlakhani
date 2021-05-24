@@ -1,0 +1,15 @@
+[20210521 13:55:12 INFO root] Base initialized.
+[20210521 13:55:12 INFO root] net device startup ok
+[20210521 13:55:12 INFO root] 	FDSetSize       = 1024
+[20210521 13:55:12 INFO root] 	Version         = 110
+[20210521 13:55:12 INFO root] 	SendBufferSize  = 16384
+[20210521 13:55:12 INFO root] 	RecvBufferSize  = 87380
+[20210521 13:55:12 ERRO root] no sn 1.
+[20210521 13:55:12 INFO root] --- Login Server Init ---------
+[20210521 13:55:12 INFO root] Connected to the db server successfully.
+[20210521 13:55:12 ERRO root] EvNet: bind socket error, IP=0.0.0.0, Port=8888
+[20210521 13:55:12 INFO root] Can not listen list '0.0.0.0.8888'.
+[20210521 13:55:12 ERRO root] server init FAILED
+[20210521 13:55:12 INFO root] Base exit.
+[20210521 13:55:12 INFO root] script engine shutdown Ok
+[20210521 13:55:12 INFO root] net device exit ok
