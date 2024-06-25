@@ -1,7 +1,7 @@
 # 💫 About Me:
  I'm currently working on Photo Colorization project<br>
  # Contact:
- 9081310848
+ dl.dikenlakhani@hotmail.com
  
  ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diken-lakhani-4b939320b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dikenlakhani) 
